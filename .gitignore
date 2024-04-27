@@ -601,9 +601,6 @@ dist/SYO-601 Security+ Quiz/_internal/unicodedata.pyd
 dist/SYO-601 Security+ Quiz/_internal/VCRUNTIME140.dll
 dist/SYO-601 Security+ Quiz/PM Questions.tsv
 dist/SYO-601 Security+ Quiz/SYO-601 Security+ Quiz.exe
-PM Questions.tsv
-SYO-601 Security+ Quiz.py
-SYO-601 Security+ Quiz.spec
 venv/Lib/site-packages/__pycache__/google_auth_httplib2.cpython-312.pyc
 venv/Lib/site-packages/__pycache__/pefile.cpython-312.pyc
 venv/Lib/site-packages/__pycache__/peutils.cpython-312.pyc
