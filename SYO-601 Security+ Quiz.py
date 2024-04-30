@@ -40,7 +40,7 @@ def ask_question(qa):
     
     q = get_random_question(qa)
     # Print question information
-    prompt = q[0]+'\n'+q[1]+'\n\n'+q[2]
+    prompt = q[0]+'\n'+q[1]+'\n\n'+q[2]+'\n'
     ltr = 65
     questions = q[3:-1]
     # random.shuffle(questions)
