@@ -107,7 +107,7 @@ def main():
     """stuff"""
     global CORRECT_COUNT
 
-    file_name = "questions.tsv" #input('What is the name of the QA file? ')
+    file_name = "PM Questions.tsv" #input('What is the name of the QA file? ')
     while True:
         number_of_questions = input(
             'How many questions should be asked (Type "all" if you want all the questions)? ')
