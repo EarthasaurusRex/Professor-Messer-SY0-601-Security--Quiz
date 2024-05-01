@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['SYO-601 Security+ Quiz.py'],
+    ['SY0-601 Security+ Quiz.py'],
     pathex=[],
     binaries=[],
     datas=[],
@@ -21,7 +21,7 @@ exe = EXE(
     a.scripts,
     [],
     exclude_binaries=True,
-    name='SYO-601 Security+ Quiz',
+    name='SY0-601 Security+ Quiz',
     debug=False,
     bootloader_ignore_signals=False,
     strip=False,
@@ -40,5 +40,5 @@ coll = COLLECT(
     strip=False,
     upx=True,
     upx_exclude=[],
-    name='SYO-601 Security+ Quiz',
+    name='SY0-601 Security+ Quiz',
 )
