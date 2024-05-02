@@ -11,7 +11,10 @@ import csv
 import google.generativeai as genai
 
 print("Loading Gemini...")
+
+# CHANGE THIS TO YOUR OWN API KEY FOR YOUR OWN USE
 GOOGLE_API_KEY = "AIzaSyBmFVUgOgUwChhgrTrJmS0OzYkKPsaj5GA"
+
 genai.configure(api_key=GOOGLE_API_KEY)
 model = genai.GenerativeModel("gemini-1.0-pro-latest")
 
@@ -109,8 +112,7 @@ def main():
 
     file_name = "questions.tsv" #input('What is the name of the QA file? ')
     while True:
-        number_of_questions = input(
-            'How many questions should be asked (Type "all" if you want all the questions)? ')
+        number_of_questions = input('How many questions should be asked (Type "all" if you want all the questions)? ')
         questions_answers = load_questions_and_answers(file_name)
         if number_of_questions.lower() == "all":
             number_of_questions = len(questions_answers)
@@ -127,8 +129,8 @@ def main():
         CORRECT_COUNT += ask_question(questions_answers)
 
     print('You got', CORRECT_COUNT, 'out of', number_of_questions, 'correct.')
-    print(
-        f"Your percentage grade: {CORRECT_COUNT / number_of_questions * 100:.2f}%")
+    print(f"Your percentage grade: {CORRECT_COUNT / number_of_questions * 100:.2f}%")
+    input('Press ENTER to exit')
 
 
 if __name__ == "__main__":
