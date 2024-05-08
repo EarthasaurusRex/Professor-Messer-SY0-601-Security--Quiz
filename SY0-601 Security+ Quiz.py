@@ -22,6 +22,7 @@ w = textwrap.TextWrapper(width=100,break_long_words=False,replace_whitespace=Fal
 
 CORRECT_COUNT = 0
 QUESTIONS_ANSWERED = 0
+STREAK = 0
 
 
 def load_questions_and_answers(file_name):
@@ -39,6 +40,7 @@ def get_random_question(qa):
 def ask_question(qa):
     """Ask a random question and test for correct answer"""
     global QUESTIONS_ANSWERED
+    global STREAK
     QUESTIONS_ANSWERED += 1
     
     q = get_random_question(qa)
@@ -57,13 +59,21 @@ def ask_question(qa):
     # Get answer and check it
     a = input()
     print()
-    if a.lower() == q[-1].lower():
-        print("Correct")
-        print(f"Current score: {(CORRECT_COUNT + 1) / QUESTIONS_ANSWERED * 100:.2f}%"
-              f" ({CORRECT_COUNT + 1} / {QUESTIONS_ANSWERED})")
-        print("==========")
-        qa.remove(q)
-        return True
+    while True:
+        if a not in "abcde":
+            continue
+        if a.lower() == q[-1].lower():
+            STREAK += 1
+            print("Correct")
+            print(f"Current score: {(CORRECT_COUNT + 1) / QUESTIONS_ANSWERED * 100:.2f}%"
+                f" ({CORRECT_COUNT + 1} / {QUESTIONS_ANSWERED})")
+            print(f"Streak: {STREAK}")
+            print("==========")
+            qa.remove(q)
+            return True
+        else:
+            break
+    STREAK = 0
     print("Incorrect")
 
     # Gemini Explanation
