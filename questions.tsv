@@ -172,3 +172,126 @@ Nov-23	170	An internet provider is required to replace faulty equipment within f
 Nov-23	171	An attacker has placed malicious code on a local coffee shop website in the hopes of infecting systems from a nearby manufacturing company. Which of the following would BEST describe this attack?	Watering hole	Tailgating	Impersonation	Dumpster diving	Logic bomb	A
 Nov-23	172	A security administrator has been asked to securely dispose of printed materials created during a recent financial project. Which of the following would be the BEST way to complete this task?	Degaussing	Drilling	Secure wiping	Pulping	Hammering	D
 Nov-23	173	"Your development team has installed a new application and database to a cloud service. After running a vulnerability scanner on the application instance, you find that the database is available for anyone to query without providing any authentication. Which of these vulnerabilities is MOST associated with this issue?"	Improper error handling	Open permissions	Race condition	Memory leak	N/A	B
+Dec-23	174	A user's browser will only send session keys over an encrypted connection. Which of the following would BEST describe this functionality?	Code signing	Input validation	Static code analysis	Secure cookies	Fuzzing	D
+Dec-23	175	A security administrator is gathering data from a compromised host. Which of the following should be gathered first?	Any previous backups	Drive image	Default router configuration	/tmp directory contents	Memory dump	E
+Dec-23	176	"A company loses $1,000 each time a tablet device is stolen. Which of the following would describe this information?"	RPO	SLE	MTBF	RTO	ALE	B
+Dec-23	177	A team in the security department is responsible for scanning and exploiting vulnerabilities on the company network. Which of the following would BEST describe this team?	Blue	White	Purple	Green	Red	E
+Dec-23	178	A Linux administrator is downloading an updated version of her Linux distribution. The download site shows a link to the ISO and a SHA256 hash value. Which of these would describe the use of this hash value?	Verifies that the file was not corrupted during the file transfer	Provides a key for decrypting the ISO after download	Authenticates the site as an official ISO distribution site	Confirms that the file does not contain any malware	N/A	A
+Website	179	A social engineering technique whereby attackers under disguise of a legitimate request attempt to gain access to confidential information is commonly referred to as:	Phishing	Privilege escalation	Backdoor access	Shoulder surfing	N/A	A
+Website	180	The practice of using a telephone system to manipulate user into disclosing confidential information is known as:	Whaling	Spear phishing	Vishing	Pharming	N/A	C
+Website	181	Which of the following terms is commonly used to describe an unsolicited advertising message?	Spyware	Adware	Malware	Spam	N/A	D
+Website	182	What type of spam relies on text-based communication?	Vishing	SPIM	Bluesnarfing	SPIT	N/A	B
+Website	183	Phishing scams targeting a specific group of people are referred to as:	Vishing	Spear phishing	Spoofing	Whaling	N/A	B
+Website	184	"In computer security, the term ""Dumpster diving"" is used to describe a practice of sifting through trash for discarded documents containing sensitive data. Found documents containing names and surnames of the employees along with the information about positions held in the company and other data can be used to facilitate social engineering attacks. Having the documents shredded or incinerated before disposal makes dumpster diving less effective and mitigates the risk of social engineering attacks."	TRUE	FALSE	N/A	N/A	N/A	A
+Website	185	A situation in which an unauthorized person can view another user's display or keyboard to learn their password or other confidential information is referred to as:	Spear phishing	Tailgating	Shoulder surfing	Spoofing	N/A	C
+Website	186	What is tailgating?	Acquiring unauthorized access to confidential data	Looking over someone's shoulder to get information	Gaining unauthorized access to restricted areas by following another person	Manipulating a user into disclosing confidential information	N/A	C
+Website	187	"In social engineering, the term ""Elicitation"" describes the use of casual conversation to extract non-public information from people without giving them the feeling they are being interrogated."	TRUE	FALSE	N/A	N/A	N/A	A
+Website	188	Which of the following is used in data URL phishing?	Prepending	Typosquatting	Pretexting	Domain hijacking	N/A	A
+Website	189	"An email message containing a warning related to a non-existent computer security threat, asking a user to delete system files ""False""ly identified as malware, and/or prompting them to share the message with others would be an example of:"	Vishing	Impersonation	Virus hoax	Phishing	N/A	C
+Website	190	Which social engineering attack relies on identity theft?	Impersonation	Dumpster diving	Watering hole attack	Shoulder surfing	N/A	A
+Website	191	Which of the terms listed below refers to a platform used for watering hole attacks?	Mail gateways	Websites	PBX systems	Web browsers	N/A	B
+Website	192	"The term ""URL hijacking"" (a.k.a. ""Typosquatting"") refers to a practice of registering misspelled domain name closely resembling other well established and popular domain name in hopes of getting Internet traffic from users who would make errors while typing in the URL in their web browsers."	TRUE	FALSE	N/A	N/A	N/A	A
+Website	193	"While conducting a web research that would help in making a better purchasing decision, a user visits series of Facebook pages and blogs containing fake reviews and testimonials in favor of a paid app intentionally infected with malware. Which social engineering principle applies to this attack scenario?"	Scarcity	Authority	Consensus	Intimidation	N/A	C
+Website	194	"Harmful programs used to disrupt computer operation, gather sensitive information, or gain unauthorized access to computer systems are commonly referred to as:"	Adware	Malware	Ransomware	Spyware	N/A	B
+Website	195	Malware that restricts access to a computer system by encrypting files or locking the entire system down until the user performs requested action is known as:	Grayware	Adware	Ransomware	Spyware	N/A	C
+Website	196	"A type of software that performs unwanted and harmful actions in disguise of a legitimate and useful program is known as a Trojan horse. This type of malware may act like a legitimate program and have all the expected functionalities, but apart from that it will also contain a portion of malicious code that the user is unaware of."	TRUE	FALSE	N/A	N/A	N/A	A
+Website	197	A standalone malicious computer program that typically propagates itself over a computer network to adversely affect system resources and network bandwidth is called:	Spyware	Worm	Trojan	Spam	N/A	B
+Website	198	Which type of malware resides only in RAM?	Rootkit	Fileless virus	Backdoor	Logic bomb	N/A	B
+Website	199	What is the function of a C2 server?	Spam distribution	Botnet control	"Authentication, Authorization, and Accounting (AAA)"	Penetration testing	N/A	B
+Website	200	A malware-infected network host under remote control of a hacker is commonly referred to as:	Trojan	Worm	Bot	Honeypot	N/A	C
+Website	201	Which of the following applies to a collection of intermediary compromised systems that can be used as a platform for a DDoS attack?	Botnet	Intranet	Honeynet	Extranet	N/A	A
+Website	202	Which of the following is an example of cryptomalware?	Backdoor	Ransomware	Keylogger	Rootkit	N/A	B
+Website	203	Malicious code activated by a specific event is called:	Spyware	Backdoor	Rootkit	Logic bomb	N/A	D
+Website	204	Malicious software collecting information about users without their knowledge/consent is known as:	Cryptomalware	Adware	Ransomware	Spyware	N/A	D
+Website	205	Which of the following is an example of spyware?	Keylogger	Vulnerability scanner	Computer worm	Packet sniffer	N/A	A
+Website	206	Which type of Trojan enables unauthorized remote access to a compromised system?	pcap	RAT	MaaS	pfSense	N/A	B
+Website	207	A collection of software tools used by a hacker to mask intrusion and obtain administrator-level access to a computer or computer network is known as:	Rootkit	Spyware	Backdoor	Trojan	N/A	A
+Website	208	"Which of the following refers to an undocumented (and often legitimate) way of gaining access to a program, online service, or an entire computer system?"	Logic bomb	Trojan horse	Rootkit	Backdoor	N/A	D
+Website	209	A short list of commonly used passwords tried against large number of user accounts is a characteristic feature of:	Replay attack	Dictionary attack	Spraying attack	Birthday attack	N/A	C
+Website	210	Which password attack bypasses account-lockout policies?	Birthday attack	Spraying attack	Dictionary attack	Replay attack	N/A	B
+Website	211	Which password attack takes advantage of a predefined list of words?	Birthday attack	Replay attack	Dictionary attack	Brute-force attack	N/A	C
+Website	212	One of the measures for bypassing the failed logon attempt account lockout policy is to capture any relevant data that might contain the password and brute force it offline.	TRUE	FALSE	N/A	N/A	N/A	A
+Website	213	An attack against encrypted data that relies heavily on computing power to check all possible keys and passwords until the correct one is found is known as:	Replay attack	Brute-force attack	Dictionary attack	Birthday attack	N/A	B
+Website	214	Rainbow tables are lookup tables used to speed up the process of password guessing.	TRUE	FALSE	N/A	N/A	N/A	A
+Website	215	Which of the following refers to the contents of a rainbow table entry?	Hash/Password	IP address/Domain name	Username/Password	Account name/Hash	N/A	A
+Website	216	"In cryptography, the term ""Plaintext"" is used to describe data in an unencrypted form."	TRUE	FALSE	N/A	N/A	N/A	A
+Website	217	Which of the following terms is used to describe the theft of personal data from a payment card?	Pivoting	Skimming	Phishing	Bluejacking	N/A	B
+Website	218	The practice of making an unauthorized copy of a payment card is referred to as:	Rooting	Cloning	Replication	Copying	N/A	B
+Website	219	An AI feature that enables it to accomplish tasks based on training data without explicit human instructions is called:	API	ML	RAD	VR	N/A	B
+Website	220	Which cryptographic attack relies on the concepts of probability theory?	KPA	Brute-force	Dictionary	Birthday	N/A	D
+Website	221	A situation where a cryptographic hash function produces two different digests for the same data input is referred to as a hash collision.	TRUE	FALSE	N/A	N/A	N/A	B
+Website	222	"A type of cryptographic attack that forces a network protocol to revert to its older, less secure version is known as:"	Downgrade attack	Replay attack	On-path attack	Brute-force attack	N/A	A
+Website	223	Which of the following indicates an SQL injection attack attempt?	DELETE FROM itemDB WHERE itemID = '1';	SELECT * FROM users WHERE userName = 'Alice' AND password = '' OR '1' = '1';	DROP TABLE itemDB;	SELECT * FROM users WHERE email = 'example@example.com' AND password = '';	N/A	B
+Website	224	A collection of precompiled functions designed to be used by more than one Microsoft Windows application simultaneously to save system resources is known as:	DLL	ISO	EXE	INI	N/A	A
+Website	225	Which of the following describes an application attack that relies on executing a library of code?	Memory leak	DLL injection	Pointer dereference	Buffer overflow	N/A	B
+Website	226	Which of the following fragments of input might indicate an XML injection attack attempt?	... <script> malicious script code </script>	search.aspx?name=userName)(zone=*)	... p@$$w0rd</password></user><user><name>attacker</name> ....	administrator)(&))	N/A	C
+Website	227	Which of the following terms describes an attempt to read a variable value from an invalid memory address?	Buffer overflow	Null-pointer dereference	Integer overflow	Memory leak	N/A	B
+Website	228	A dot-dot-slash attack is also referred to as:	Disassociation attack	On-path attack	Directory traversal attack	Downgrade attack	N/A	C
+Website	229	A type of exploit that relies on overwriting contents of memory to cause unpredictable results in an application is called:	IV attack	SQL injection	Buffer overflow	Fuzz test	N/A	C
+Website	230	A situation in which an application writes to an area of memory it is not supposed to have access to is referred to as:	DLL injection	Buffer overflow	Memory leak	Integer overflow	N/A	B
+Website	231	A malfunction in a preprogrammed sequential access to a shared resource is described as:	Race condition	Buffer overflow	Memory leak	Pointer dereference	N/A	A
+Website	232	Which of the following terms refers to a vulnerability caused by race conditions?	Mean time to failure	Replay attack	Mean time between failures	Time-of-check to time-of-use	N/A	D
+Website	233	A situation in which a web form field accepts data other than expected (e.g. server commands) is an example of:	Zero-day vulnerability	Improper input validation	Default configuration	Improper error handling	N/A	B
+Website	234	Which of the following answers refers to a countermeasure against code injection?	Fuzzing	Input validation	Code signing	Normalization	N/A	B
+Website	235	A network replay attack occurs when an attacker intercepts sensitive user data and resends it to the receiver with the intent of gaining unauthorized access or tricking the receiver into unauthorized operations.	TRUE	FALSE	N/A	N/A	N/A	A
+Website	236	"In a session replay attack, an attacker steals a valid session ID of a user and resends it to the server with the intent of gaining unauthorized access or tricking the server into unauthorized operations."	TRUE	FALSE	N/A	N/A	N/A	A
+Website	237	Which of the terms listed below describes a programming error where an application tries to store a numeric value in a variable that is too small to hold it?	Buffer overflow	Pointer dereference	Memory leak	Integer overflow	N/A	D
+Website	238	Which type of exploit allows an attacker to take control over a server and use it as a proxy for unauthorized actions?	XSRF	CSRF	XSS	SSRF	N/A	D
+Website	239	Which of the following enables the exchange of information between computer programs?	API	UI	Device drivers	SDK	N/A	A
+Website	240	What is the purpose of a DoS attack?	Code injection	Resource exhaustion	Malware infection	Privilege escalation	N/A	B
+Website	241	A situation in which an application fails to properly release memory allocated to it or continually requests more memory than required is known as:	Memory leak	Buffer overflow	Race condition	Integer overflow	N/A	A
+Website	242	Which of the following alters the external behavior of an application and at the same time does not introduce any changes to the application's code?	Shimming	Refactoring	API call	Sideloading	N/A	A
+Website	243	The practice of modifying an application's code without changing its external behavior is referred to as:	API call	Refactoring	Sideloading	Shimming	N/A	B
+Website	244	A technique that allows an attacker to authenticate to a remote server without extracting cleartext password from a digest is called:	Pass the hash	Replay attack	Brute-force attack	Spraying attack	N/A	A
+Website	245	"The term ""Evil twin"" refers to a rogue Wireless Access Point (WAP) set up for eavesdropping or stealing sensitive user data. Evil twin replaces the legitimate access point and by advertising its own presence with the same Service Set Identifier (SSID, a.k.a. network name) appears as a legitimate access point to connecting hosts."	TRUE	FALSE	N/A	N/A	N/A	A
+Website	246	Gaining unauthorized access to a Bluetooth device is referred to as:	Phishing	Bluejacking	Smishing	Bluesnarfing	N/A	D
+Website	247	The practice of sending unsolicited messages over Bluetooth is known as:	SPIM	Bluejacking	Vishing	Bluesnarfing	N/A	B
+Website	248	A wireless disassociation attack is a type of: (Select 2 answers)	Cryptographic attack	Downgrade attack	Deauthentication attack	Brute-force attack	N/A	C
+Website	249	A wireless jamming attack is a type of:	Cryptographic attack	Denial-of-Service (DoS) attack	Brute-force attack	Downgrade attack	N/A	B
+Website	250	Which of the following wireless technologies enables identification and tracking of tags attached to objects?	WTLS	GPS	RFID	WAF	N/A	C
+Website	251	A type of identification badge that can be held within a certain distance of a reader device to authenticate its holder is called:	Smart card	ID badge	Soft token	RFID badge	N/A	D
+Website	252	What is the name of a technology used for contactless payment transactions?	NFC	SDN	PED	WAP	N/A	A
+Website	253	NFC is vulnerable to:	Data interception	Replay attacks	Denial-of-Service (DoS) attacks	All of the above	N/A	D
+Website	254	"An attacker managed to associate his/her MAC address with the IP address of the default gateway. In result, a targeted host is sending network traffic to the attacker's IP address instead of the IP address of the default gateway. Based on the given info, which type of attack is taking place in this scenario?"	ARP poisoning	Replay attack	Cross-site request forgery	DNS poisoning	N/A	A
+Website	255	Media Access Control (MAC) flooding is a network attack that compromises the security of a network switch by overflowing its memory used to store the MAC address table.	TRUE	FALSE	N/A	N/A	N/A	A
+Website	256	An attack that relies on altering the burned-in address of a NIC to assume the identity of a different network host is known as: (Select 2 answers)	ARP poisoning	On-path attack	MAC spoofing	Replay attack	N/A	C
+Website	257	"The term ""Domain hijacking"" refers to a situation in which domain registrants due to unlawful actions of third parties lose control over their domain names."	TRUE	FALSE	N/A	N/A	N/A	A
+Website	258	Remapping a domain name to a rogue IP address is an example of what kind of exploit?	DNS poisoning	Domain hijacking	ARP poisoning	URL hijacking	N/A	A
+Website	259	URL redirection is a characteristic feature of:	Pharming	Directory traversal attacks	On-path attacks	Typosquatting	N/A	A
+Website	260	Which of the following enables client-side URL redirection?	host	hosts	hostname	localhost	N/A	B
+Website	261	Which of the following factors has the biggest impact on domain reputation?	Domain age	Missing SSL certificate	Derivative content	Bounce rate	N/A	B
+Website	262	"As opposed to the simple Denial of Service (DoS) attacks that usually are performed from a single system, a Distributed Denial of Service (DDoS) attack uses multiple compromised computer systems to perform the attack against its target. The intermediary systems that are used as platform for the attack are the secondary victims of the DDoS attack; they are often referred to as zombies, and collectively as a botnet."	TRUE	FALSE	N/A	N/A	N/A	A
+Website	263	What is the most common form of a DDoS attack?	IoT-based	Network-based	OT-based	Application-based	N/A	B
+Website	264	Which type of DDoS attack targets industrial equipment and infrastructure?	IoT	ATT&CK	OT	IoC	N/A	C
+Website	265	Which of the following answers lists the filename extension of a Microsoft PowerShell script file?	.py	.vbs	.sh	.ps1	N/A	D
+Website	266	"Which of the following answers refers to a filename extension used in a cross-platform, general-purpose programming language?"	.bat	.py	.ps1	.vbs	N/A	B
+Website	267	Which of the following answers refers to a script file type designed to be run in Unix command line?	bat	ps1	vbs	sh	N/A	D
+Website	268	Which of the following enables running macros in Microsoft Office applications?	DOM	VBA	SDK	RAD	N/A	B
+Website	269	Files with this filename extension are used in a scripting language based on the Microsoft's Visual Basic programming language.	.vb	.sh	.vbs	.js	N/A	C
+Website	270	Which term best describes a disgruntled employee abusing legitimate access to company's internal resources?	Script kiddie	Insider threat	Hacktivist	Blue hat hacker	N/A	B
+Website	271	A person who breaks into a computer network or system for a politically or socially motivated purpose is usually described as a(n):	Insider	Gray hat hacker	Hacktivist	State actor	N/A	C
+Website	272	Which of the following terms best describes threat actors whose sole intent behind breaking into a computer system or network is monetary gain?	State actors	Black hat hackers	Criminal syndicates	Advanced Persistent Threat (APT)	N/A	C
+Website	273	Which of the following terms falls into the category of unauthorized hacking activities?	Gray hat	White hat	Black hat	Blue hat	N/A	C
+Website	274	Which of the following terms falls into the category of semi-authorized hacking activities?	Blue hat	Black hat	Gray hat	White hat	N/A	C
+Website	275	"In IT security, the term ""Shadow IT"" is used to describe software and hardware used within an organization, but outside of the organization's official IT infrastructure."	TRUE	FALSE	N/A	N/A	N/A	A
+Website	276	Which of the following terms best describes threat actors that engage in illegal activities to get the know-how and gain market advantage?	Insiders	Nation states / APTs	Criminal syndicates	Competitors	N/A	D
+Website	277	Which of the following answers does not relate to a direct access threat vector?	Malicious USB cable	Backdoor	Malicious URL	Lack of physical security controls	N/A	C
+Website	278	Which of the following answers does not refer to an email communication threat vector?	Skimming	Malicious attachment	Social engineering	Malicious URL	N/A	A
+Website	279	Which of the following mitigates the risk of supply chain attacks?	Disaster Recovery Plan (DRP)	Vendor/intermediary checks	Business Continuity Plan (BCP)	Incident Response Plan (IRP)	N/A	B
+Website	280	Which of the following terms refers to threat intelligence gathered from publicly available sources?	IoC	OSINT	RFC	CVE/NVD	N/A	B
+Website	281	Which of the following statements does not apply to dark web?	Requires specific software to access its contents	Forms a large part of the deep web	Not indexed by traditional search engines	Frequently associated with illegal activities	N/A	B
+Website	282	A type of forensic evidence that can be used to detect unauthorized access attempts or other malicious activities is called:	CVE	IoC	AIS	OSINT	N/A	B
+Website	283	Which of the following terms refers to a US government initiative for real-time sharing of cyber threat indicators?	NVD	AIS	TTP	CVSS	N/A	B
+Website	284	What is STIX?	Vulnerability database	Common language for describing cyber threat information	US government initiative for real-time sharing of cyber threat indicators	Transport mechanism for cyber threat information	N/A	B
+Website	285	Which of the following terms refers to a dedicated transport mechanism for cyber threat information?	TCP/IP	STIX	TAXII	S/MIME	N/A	C
+Website	286	GitHub is an example of:	Digital media store	Virtualization software	File/code repository	Social media site	N/A	C
+Website	287	A type of formal document that describes the specifications for a particular technology is known as:	RFQ	RFC	RFI	RFP	N/A	B
+Website	288	Which of the following describes the behavior of a threat actor?	PII	TTPs	IPS	MaaS	N/A	B
+Website	289	A type of attack aimed at exploiting vulnerability that is present in already released software but unknown to the software developer is called:	Xmas attack	Zero-day attack	IV attack	Replay attack	N/A	B
+Website	290	Which of the following answers refers to a deprecated encryption protocol?	SSH	TLS	S/MIME	SSL	N/A	D
+Website	291	"FTP, HTTP, IMAP, POP, SMTP, and Telnet are all examples of cleartext (i.e. unencrypted) network protocols."	TRUE	FALSE	N/A	N/A	N/A	A
+Website	292	The importance of changing default usernames and passwords can be illustrated on the example of certain network devices (such as routers) which are often shipped with default and well-known admin credentials that can be looked up on the web.	TRUE	FALSE	N/A	N/A	N/A	A
+Website	293	An antivirus software identifying non-malicious file as a virus due to faulty virus signature file is an example of:	Fault tolerance	False positive error	Quarantine function	False negative error	N/A	B
+Website	294	Which of the following terms refers to a situation where no alarm is raised when an attack has taken place?	False negative	True positive	False positive	True negative	N/A	A
+Website	295	An industry standard for assessing the severity of computer system security vulnerabilities is known as:	SIEM	CVSS	OSINT	SOAR	N/A	B
+Website	296	Which type of server is used for collecting diagnostic and monitoring data from networked devices?	Proxy server	UC server	Syslog server	ICS server	N/A	C
