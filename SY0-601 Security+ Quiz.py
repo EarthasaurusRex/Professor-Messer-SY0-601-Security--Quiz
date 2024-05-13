@@ -57,12 +57,12 @@ def ask_question(qa):
     print('\n'.join('\n'.join(w.wrap(i)) for i in prompt.split('\n')))
 
     # Get answer and check it
-    a = input()
-    print()
     while True:
-        if a not in "abcde":
+        a = input()
+        if a not in "abcde" or len(a) != 1:
             continue
         if a.lower() == q[-1].lower():
+            print()
             STREAK += 1
             print("Correct")
             print(f"Current score: {(CORRECT_COUNT + 1) / QUESTIONS_ANSWERED * 100:.2f}%"
@@ -106,7 +106,12 @@ Do not use any markdown formatting. Define any abbreviations.
 """+"Question:\n"+prompt+f"\n\nThe correct answer is {q[-1]}."
     )
 
-    print('\n'.join('\n'.join(w.wrap(i)) for i in response.text.split('\n')))
+    try:
+        print('\n'.join('\n'.join(w.wrap(i)) for i in response.text.split('\n')))
+    except ValueError as e:
+        print("A ValueError has occured. Check the logs for more information.")
+        with open("errorlog.txt", 'w') as f:
+            f.write(f"Error:\n{e}\n\n{response}")
 
     input("\nPress Enter to continue.")
 
