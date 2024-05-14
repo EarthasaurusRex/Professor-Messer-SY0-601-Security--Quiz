@@ -79,7 +79,8 @@ def ask_question(qa):
     # Gemini Explanation
     print(f"The correct answer is {q[-1]}.\n")
     print("Explanation by Gemini (may be incorrect):")
-    response = model.generate_content(
+    while True:
+        response = model.generate_content(
 """Answer any following multiple choice questions with an extremely brief explanation on why the correct answer is correct and why the others are wrong in this format:
 `
 The correct answer is (Answer Letter). (Answer Name)
@@ -105,6 +106,12 @@ Do not use any markdown formatting. Define any abbreviations.
 
 """+"Question:\n"+prompt+f"\n\nThe correct answer is {q[-1]}."
     )
+        try:
+            response.text
+            break
+        except ValueError:
+            print("Failed to generate response. Retrying (This may take a while)...")
+            continue
 
     try:
         print('\n'.join('\n'.join(w.wrap(i)) for i in response.text.split('\n')))
