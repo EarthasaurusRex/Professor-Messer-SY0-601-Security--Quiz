@@ -1,182 +1,182 @@
 Month-Year	Number	Questions	Choice A	Choice B	Choice C	Choice D	Choice E	Answer
-Jan-21	1	Which of the following is responsible for enforcing rules during a cybersecurity exercise?	White team	Purple team	Red team	Blue team	N/A	A
-Jan-21	2	Which of the following would be considered an authentication attribute?	Something you know	Something you have	Somewhere you are	Something you are	N/A	C
-Jan-21	3	Which of the following is used by WPA3 to prevent PSK brute force attacks?	AES	SAE	Strong passwords	CCMP	N/A	B
-Jan-21	4	A security team has been asked to document information in the Diamond Model. Which of the following BEST describes this model?	Encryption Complexity	Disaster Recovery Process	Application Containerization	Intrusion Analysis	N/A	D
-Jan-21	5	Which of the following companies would be MOST likely to manage PHI?	Car manufacturing	Airport transportation	Surgery center	Credit card services	N/A	C
-Jan-21	6	An attacker is modifying data sent in real-time between two devices. Which of the following attacks is MOST likely in use?	On-path	Wireless jamming	Denial of service	MAC flooding	N/A	A
-Feb-21	7	Which of the following would be the BEST way to provide connectivity to VPCs?	Transit gateway	Containerization manager	Function as a Service	Rapid elasticity	N/A	A
-Feb-21	8	Which of the following would be the BEST way to monitor a cloud-based microservice architecture?	IPS	SNMP traps	IPsec	API inspection	N/A	D
-Feb-21	9	Which of the following would be the BEST method of sending data to a specific port number on a remote device?	traceroute	netcat	dig	route	N/A	B
-Feb-21	10	Which security framework is mandatory for US federal agencies and includes a six step process?	NIST RMF	SSAE SOC 2 TYPE I/II	CSA CCM	CIS CSC	N/A	A
-Feb-21	11	Which of these threat actors would be motivated by social change and would likely have limited funding options?	Nation state	Shadow IT	Competitor	Hacktivist	Organized crime	D
-Mar-21	12	A system administrator has replaced a storage drive and restored a server from backup using a full backup and multiple additional tape sets. Which of the following would BEST describe this backup type?	Incremental	Full	Scheduled	Differential	Imaged	A
-Mar-21	13	Which of these features is available when using MAM?	Automated failover	Enterprise app catalog	Encrypted tunnels	Multiple authentication factors	FDE	B
-Mar-21	14	A system administrator would like to identify all known vulnerabilities on a remote device. Which of the following would be the BEST choice for this task?	Cuckoo	dnsenum	scanless	theHarvester	Nessus	E
-Mar-21	15	"A pair of managers in the IT department have access to the safe, but each person only knows half of the combination. Which of the following would describe this policy?"	Least privilege	Separation of duties	Corrective control	Clean desk policy	Non-disclosure agreement	B
-Mar-21	16	An attacker has circumvented a security control by modifying their MAC address. Which of the following would describe this attack type?	Cloning	Denial of service	Jamming	Rogue access point	Malicious script	A
-Mar-21	17	A data center optimizes the cooling process by specifying the orientation of equipment during installation. Which of the following would describe this technique?	Air gap	Dual power supplies	Hot and cold aisles	Faraday cage	USB data blocker	C
-Apr-21	18	A security engineer would like to connect a private cloud subnet to other cloud services. Which of the following would be the BEST choice?	Default route	SSL VPN	VPC gateway	Container	WPA3	C
-Apr-21	19	An endpoint security client has identified a suspicious application and moved the file to a safe area. Which of the following would describe this activity?	Approval list	Hash identification	Quarantine	Digital signature	Block list	C
-Apr-21	20	Which of the following would be MOST associated with AIS?	STIX and TAXII	0-day attacks	Syslog	Data exfiltration	Encrypted tunnel	A
-Apr-21	21	A database has been modified so that every person listed in the database has been replaced with a completely different first and last name. Which of the following would BEST describe this modification?	Proxy	Pseudonymization	Intelligence fusion	OSINT	Fake telemetry	B
-Apr-21	22	A user inputs a PIN during the login process. Which of the following would describe this authentication method?	TOTP	Push notification	Attestation	Static code	Federation	D
-May-21	23	Which of the following is used to secure WPA3 PSK authentication?	SAE	CCMP	WPS	TKIP	CBC-MAC	A
-May-21	24	Which of these best describes authentication that is genuine with high confidence?	Hashing	Integrity	Counterintelligence	E-discovery	Non-repudiation	E
-May-21	25	Which of the following would be the BEST example of a detective security control?	IPS	Security policy	Fence	Hot site	Backup	A
-May-21	26	Which of these would BEST describe a ZIP bomb?	Directory traversal	NULL pointer dereference	API attack	Memory leak	Resource exhaustion	E
-May-21	27	Which of the following would be the best way to prevent a worm entering the network through a USB flash drive?	NGFW	DNS sinkhole	DLP	SIEM	Screened subnet	C
-Jun-21	28	Which of the following is commonly used to verify device drivers during Windows startup?	ELAM	TPM	RBAC	802.1X	HSM	A
-Jun-21	29	A pentester is gathering OSINT prior to a scheduled test. Which of the following would be the BEST choice for this task?	Nmap	curl	theHarvester	Cuckoo	Nessus	C
-Jun-21	30	A prospective employee was dropped from a job consideration after receiving the results of a background check. Which of the following describes this process?	Offboarding	Adverse action	Contingency planning	NDA	PII	B
-Jun-21	31	Which of the following would use rules to limit API communication?	TLS	WAF	NAT	SSH	VPN	B
-Jun-21	32	Which of the following allows the browser to check for certificate revocation?	OCSP	TLS	CN	CSR	CA	A
-Jul-21	33	Which of the following provides a knowledge base of adversary tactics and techniques?	Diamond model	EAP-TTLS	MITRE ATT&CK framework	ISO 31000	SSAE SOC 2	C
-Jul-21	34	Which security control would MOST associated with a backup generator?	Physical	Compensating	Detective	Preventive	Managerial	B
-Jul-21	35	Which of the following would be the BEST way to randomize multiple hashes of the same data?	SDN	FDE	Key exchange	VPN	Salt	E
-Jul-21	36	Which of the following would determine which laws would apply to stored data?	Diffusion	Data-at-rest	Sovereignty	Information Rights Management	Masking	C
-Jul-21	37	Which of the following would be the MOST secure way of viewing traffic statistics from a router?	SNMPv3	FTPS	SMB	RDP	Telnet	A
-Aug-21	38	A security administrator would like to restrict application use to a predefined set of apps. Which of the following would BEST describe this security type?	Deny list	Quarantine	DLP	Approved List	Segmentation	D
-Aug-21	39	"A company has determined that laptops valued at $50,000 have been stolen over the last calendar year. Which of the following would describe this value?"	ARO	Risk appetite	SLE	ALE	Inherent Risk	D
-Aug-21	40	Which of the following would be categorized as OSINT?	Annual financial report	File of password hashes	ISO 27701	DNS sinkhole address	SSH login without a password	A
-Aug-21	41	Which of the following would commonly be used for an IoT sensor located in the middle of a 40 acre pasture on a farm?	Zigbee	Narrowband	1000BASE-T	802.1X	Bluetooth	B
-Aug-21	42	Which of the following uses GCMP block cipher mode as the encryption method?	EAP-TLS	WPS	WPA3	SFTP	RADIUS federation	C
-Sep-21	43	Which of the following would be the BEST way to add information to a Linux system log?	grep	tail	dnsenum	tcpdump	logger	E
-Sep-21	44	The vice president of sales is responsible for all customer relationship data. Which of the following would BEST describe this VP?	Data custodian	Data owner	Data protection officer	Data controller	Data processor	B
-Sep-21	45	"A scan has identified a vulnerability on a Windows server, but the server has been previously patched for the vulnerability. Which of the following would BEST describe this result?"	False negative	Credentialed scan	Low-severity	False positive	Non-intrusive scan	D
-Sep-21	46	Which of the following is the meeting point between FAR and FRR?	CER	AES	TPM	MTBF	CSR	A
-Sep-21	47	Which of the following provides a method of creating secure digital signatures in an email client?	S/MIME	SRTP	IPsec	LDAPS	NTPsec	A
-Oct-21	48	Which of these provides the BEST way to indirectly identify an open port?	theHarvester	dnsenum	scanless	curl	sn1per	C
-Oct-21	49	Which of the following focuses on a user's control of their personal data?	PCI DSS	SIEM	HIPAA	SOX	GDPR	E
-Oct-21	50	Which of these attack types would cause a switch to send data to all interfaces?	DNS poisoning	Rogue access point	Bluejacking	MAC flooding	Domain hijacking	D
-Oct-21	51	A user has an image with data hidden inside of the file. Which of the following would describe this data storage?	Hashing	Steganography	Quantum computing	Asymmetric	Blockchain	B
-Oct-21	52	Which secure protocol would be the BEST choice for a site-to-site VPN?	DNSSEC	LDAPS	IPsec	SFTP	SNMPv3	C
-Nov-21	53	A security administrator would like to view a summary of network conversations for the last 24 hours. Which of the following would provide this information?	sFlow	TAXII	OWASP	HSM	OSINT	A
-Nov-21	54	Which of the following would be the BEST choice for a preventive security control?	Motion detector	Backup tapes	IDS	Hot site	Firewall	E
-Nov-21	55	Which of the following would be categorized as passive footprinting?	Port scan	OS fingerprinting	Reading a forum	Ping scan	DNS query	C
-Nov-21	56	Which of the following would be considered data at-rest?	Data sent over an IPsec link	Verification of a digital signature	Password hashes stored in a SQL database	Rendering a video file	Transfer of data to a backup site	C
-Nov-21	57	Which of the following would be the BEST way to prevent loops on a layer two network?	BPDU guard	STP	MAC filtering	DHCP snooping	Broadcast storm control	B
-Dec-21	58	"Which of the following provides documentation on attack methods, techniques, and mitigation information?"	Diamond model	NIST Risk Management Framework	ISO/IEC 27701	MITRE ATT&CK framework	SSAE SOC 2 Type I/II	D
-Dec-21	59	A system administrator is installing an application to automatically transfer files between servers. Which of the following account types should be created?	Service	Third-party	Personnel	Administrative	Device	A
-Dec-21	60	An attacker is intercepting and modifying information sent in real-time across the network. Which of the following would BEST describe this attack type?	RFID attack	Wireless disassociation	DDoS	MAC flooding	On-path attack	E
-Dec-21	61	A system administrator would like to prevent an outage if the server's network adapter fails. Which of the following would provide this functionality?	UPS	RAID 5	NIC teaming	SAN replication	Differential backup	C
-Dec-21	62	A security administrator would like to prevent brute force attacks on 802.11 PSK handshakes. Which of the following would provide this protection?	AES	WPA3	CCMP	WPS	TKIP	B
-Jan-22	63	A security researcher would like to safely test downloaded applications for malware before deployment. Which of the following would provide this functionality?	Nessus	theHarvester	sn1per	hping	Cuckoo	E
-Jan-22	64	A company has decided to remove all Internet access from a manufacturing floor. Which of the following management strategies would BEST describe this course of action?	Assessment	Mitigation	Risk-avoidance	Transference	Acceptance	C
-Jan-22	65	"A caller to the help desk needs to have a password reset, and they say that payroll checks won't be processed without the reset? Which of the following social engineering principles is in use?"	Intimidation	Familiarity	Authority	Trust	Social proof	A
-Jan-22	66	A user is logging into a third-party accounting service with their Google credentials. Which of the following would describe this authentication method?	Multi-factor	TOTP	Federation	Push notification	Smart card	C
-Jan-22	67	A security administrator would like to monitor an application for invalid JSON strings. Which of the following would be the BEST choice for this task?	SWG	IPS	IPsec	MDM	SAE	A
-Feb-22	68	Which of the following tools would allow a security administrator to extract a browser history from a drive image?	hping	Autopsy	theHarvester	Nessus	sn1per	B
-Feb-22	69	An audit has found credit card transfers sent across the network in plaintext. Which of the following would be non-compliant for this issue?	GDPR	802.1X	OWASP	PCI DSS	TPM	D
-Feb-22	70	Which of the following would BEST describe an IOC?	A system is expected to fail every three years	All wireless traffic is encrypted	An audit is performed every six months	All laptops are configured for FDE	A file hash value has changed	E
-Feb-22	71	Which of the following technologies store information in a distributed ledger?	CASB	HSM	Blockchain	SSID	PII	C
-Mar-22	72	An administrator would like to determine the wireless signal strength in each office of a building. Which of the following would be the BEST choice for this task?	Site survey	Port scanner	Light meter	Tone generator	Vulnerability scanner	A
-Mar-22	73	A security administrator needs to capture network packets to a file for additional processing. Which of the following would be the BEST choice for this task	grep	tcpdump	theHarvester	Nessus	Nmap	B
-Mar-22	74	An invoicing application shows credit card information with asterisks instead of the actual numbers. Which of the following would BEST describe this technique?	Tokenization	Pseudo-anonymization	Symmetric encryption	Data minimization	Data masking	E
-Mar-22	75	An attacker has obtained files from a web server that are stored outside of the site's file directory. Which of the following would BEST describe this attack type?	Resource exhaustion	Replay attack	SSL stripping	NULL Pointer dereference	Directory traversal	E
-Mar-22	76	A user is verifying the contents of an email by using the public key of the sender. Which of the following BEST describes this verification?	Steganography	Blockchain	Digital signature	Symmetric encryption	Quantum computing	C
-Mar-22	77	A user connecting to the wireless network receives a login prompt in their browser with an authentication request. Which of the following would BEST describe this process?	WPS	AES	WPA3	Captive portal	Something you are	D
-Apr-22	78	A Linux administrator needs to prevent users from accessing a certain system file. Which of the following would provide this function?	chmod	logger	tail	sn1per	netstat	A
-Apr-22	79	A company requires that each employee maintain confidentiality regarding the tasks of their employment. Which of the following would be used to maintain this confidentiality?	EULA	Split knowledge	Off-boarding	NDA	AUP	D
-Apr-22	80	Which of the following would prevent an attacker from using a rainbow table against a set of password hashes?	Rootkit	Salt	AES	RAT	Supply chain attack	B
-Apr-22	81	Which of the following would be the BEST example of an RTOS?	USB data blocker	RAID	Steganography	Fog computing	Automobile	E
-Apr-22	82	"A company has removed all of their data from a user's mobile phone, but the user's private information remains on the device. Which of the following would BEST describe this functionality?"	Context-aware authentication	Full device encryption	Containerization	Biometrics	Geofencing	C
-May-22	83	Which of the following data types is the MOST volatile?	Backup tapes	Temporary files	ARP cache	Router configuration	Stored log files	C
-May-22	84	Which of the following would be categorized as a detective security control?	Door lock	Motion sensor	Backup power system	UPS	Warning sign	B
-May-22	85	An administrator was able to determine the password for each email login occurring during a morning security test. Which of the following would be the MOST likely explanation?	MAC spoofing	Replay attack	Driver manipulation	Wireless disassociation attack	Insecure protocols	E
-May-22	86	Which of the following would be MOST associated with TOTP?	GPS coordinates	Phone app	Faraday cage	Diamond model	Air gap	B
-Jun-22	87	Which of the following would provide the BEST security for a cloud-based microservice architecture?	API monitoring	NGFW	Real-time anti-malware	Segmented VLANs	IPS	A
-Jun-22	88	"A pentester would like to perform a port scan to a remote device, but have the scan source originate from another country. Which of the following would be the BEST choice for this requirement?"	sn1per	Nessus	theHarvester	scanless	hping	D
-Jun-22	89	A company is performing an audit to ensure that all credit card transactions are secure. Which of the following would provide guidelines for this audit?	GDPR	EULA	NDA	PCI DSS	SOX	D
-Jun-22	90	A security operations center has been informed of a new vulnerability with a CVSS of 9.0. Which of the following would provide more information on this score?	National Vulnerability Database	SOAR	Microsoft Security Bulletins	CASB	SIEM	A
-Jul-22	91	A user has misplaced a flash drive containing a database with sensitive information. Which of the following would BEST describe the state of this database?	Redundant	Data at rest	FDE	False positive	Digitally signed	B
-Jul-22	92	A user has copied a presentation to a folder and shared the folder with everyone in the Marketing group. Which of the following would BEST describe this type of access control?	Rule-based	Conditional	Discretionary	802.1X	Mandatory	C
-Jul-22	93	"A security administrator has received this information in a log file: 2020-Oct-05 00:10:43 Informational %LINK-I-Up: gi7, aggregated (1). Which of the following would be the MOST likely source of this log entry?"	Firewall	Proxy	DNSenum	File server	Switch	E
-Jul-22	94	A company has determined that ten tablets are stolen or lost in a single year. Which of the following would BEST describe this statistic?	ARO	SLE	QoS	SLA	ALE	A
-Jul-22	95	A security researcher has found a flaw in an application that allows unauthorized access to the file system. Which of the following would BEST describe this issue?	DoS	Social engineering	Replay attack	Privilege escalation	SSL stripping	D
-Aug-22	96	A security administrator needs to prevent all communication between two subnets. Which of the following would be the BEST option for this requirement?	Cold aisle	IPsec tunnel	Air gap	Biometric locks	Next-generation firewall	C
-Aug-22	97	A security researcher has created an image from an infected storage drive. Which of the following would be the best way to ensure non-repudiation of the image?	Keep a backup of the image	Create a digital signature	Store the drive in a locked cabinet	Transfer all data over an encrypted channel	Hire a third-party to store the image	B
-Aug-22	98	A security researcher has found a flaw in an application that allows unauthorized access to the file system. Which of the following would BEST describe this issue?	BPA	NDA	MOU	SLA	MSA	E
-Aug-22	99	An attacker has captured all traffic from a switch without using a tap or on-path technique. Which of the following would allow the attacker access to this data?	Wireless jamming	Bluesnarfing	Denial of service	MAC flooding	Malicious script	D
-Sep-22	100	A company would like to securely remove all data from a hard drive and redeploy the drive on another computer. Which of the following would provide this option?	Secure wipe	Degaussing	Shredder	Quick format	Replace the platters	A
-Sep-22	101	A security administrator is sending some data to an open port on a remote device. Which of the following would provide this functionality?	ifconfig	netcat	ARP cache	route	netstat	B
-Sep-22	102	"During login, a notice is shown with a warning against any illegal use of the system. Which control type is associated with this banner?"	Deterrent	Corrective	Detective	Physical	Compensation	A
-Sep-22	103	A system administrator is authenticating all users to a central database. Which of the following would be the best way to implement this authentication method?	DNSSEC	S/MIME	SRTP	SSH	LDAPS	E
-Sep-22	104	Which of the following would be the BEST way to provide non-repudiation?	Hash	Sector-by-sector image	Business continuity plan	Digital signature	SSO	D
-Oct-22	105	"Before access is allowed through a VPN, a user's computer is checked for the latest anti-virus signatures and security patches. Which of the following describes this process?"	Multi-factor authentication	Directory services	Data loss prevention	Posture assessment	Penetration testing	D
-Oct-22	106	Which of these would BEST describe a database containing the results of a blood test?	QoS	PHI	BPDU	DRM	STIX	B
-Oct-22	107	An attacker is using an on-path attack to gain access to data over an encrypted connection. Which of the following would BEST describe this attack?	Cross-site scripting	Logic bomb	SSL stripping	Directory traversal	SQL injection	C
-Oct-22	108	Which of the following would describe a key exchange occurring beyond the scope of the network?	Symmetric	Certificate	Perfect forward secrecy	Hashing	Out-of-band	E
-Oct-22	109	A security administrator has disabled WPS on a wireless network. What is the MOST likely reason for this configuration change?	Increase performance	Updating to WPS2	Reduce the frequency conflicts	Reduce output power	Cryptographic vulnerability	E
-Oct-22	110	"A security technician is collecting forensic evidence from a laptop computer. Between the temporary files, backup tapes, memory, and Windows system files, which should be collected FIRST?"	Temporary files	Backup tapes	Memory	Windows system files	N/A	C
-Dec-22	111	Which of the following would be the MOST important reason for a mandatory vacation policy?	Identity fraud	Apply least privilege to all users	Implement a clean desk policy	Require at least two people to be present	Execute an NDA	A
-Dec-22	112	Which of the following would be commonly found in a SIEM database?	Usernames and password hashes	A list of all IT assets in an organization	Monthly Microsoft update files	Switch and router logs	Vulnerability scan results	D
-Dec-22	113	Which of the following would be the BEST way for a security administrator to validate each system connecting to a network?	Federation	Attestation	Multi-factor authentication	Directory services	Smart cards	B
-Dec-22	114	A company would like to ensure an application has not been modified before deployment. Which of the following would provide this validation?	Https encryption	Fuzzing	Code signing	Input validation	Secure cookies	C
-Dec-22	115	A security administrator is using theHarvester. What type of information would they MOST likely be harvesting?	Open port numbers	Plaintext authentication	Unpatched vulnerabilities	Active IP addresses	Publicly available information	E
-Dec-22	116	Which of the following would be the BEST way to provide a website login using existing credentials from a third-party site	Federation	802.1X	PEAP	EAP-Fast	N/A	A
-Jan-23	117	A US Federal government agency is using a six-step process for information security. Which of the following would BEST describe this framework?	NIST RMF	SSAE SOC 2 TYPE I/II	CSA CCM	ISO/IEC 27001	CIS CSC	A
-Jan-23	118	Which type of threat actor commonly gains unauthorized access to a system without any knowledge of the underlying exploit?	Nation state	Shadow IT	Insiders	Script kiddies	Competitors	D
-Jan-23	119	Which type of computing manages some data locally instead of processing all data on a cloud service?	SaaS	Fog computing	Hashing	Load balancing	IoT	B
-Jan-23	120	Which of the following would BEST describe network traffic between devices in the same data center?	VPN	Extranet	VLAN	Screened subnet	East-west traffic	E
-Jan-23	121	An administrator has received a report with a list of servers running up an unsupported operating system version. Which of the following would BEST describe this report?	IPS log	DNS enumeration	Vulnerability scan	OSINT analysis	Brute-force attack	C
-Feb-23	122	A company has added a 24-hour security guard to process guests at the main entrance of their building. Which security control would describe this scenario?	Preventive	Compensating	Detective	Technical	Corrective	A
-Feb-23	123	Which of the following would BEST describe an OT DoS?	Power system failure	Web server kernel fault	L2 network loop	Email server buffer overflow	DNS server outage	A
-Feb-23	124	Which of the following multi-factor authentication attributes would be associated with signing for a package delivery?	Somewhere you are	Someone you know	Something you can do	Cloud authentication	Something you exhibit	C
-Feb-23	125	Which of the following would be the BEST way to securely store web server encryption keys?	Jump server	HSM	Load balancer	Reverse proxy	IPS	B
-Feb-23	126	A security engineer has collected evidence from a security breach. Which of the following would maintain data integrity and avoid tampering of this data?	Legal hold	FDE	Event log capture	RAID	Chain of custody	E
-Feb-23	127	"A CISO (Chief Information Security Officer) would like to decrease the response time when addressing security incidents. Unfortunately, the company does not have the budget to hire additional security engineers. Which of the following would assist the CISO with this requirement?"	ISO 27701	PKI	IaaS	SOAR	N/A	D
-Mar-23	128	A company has documented a unique method of manufacturing their products. Which of the following would BEST categorize this data?	Proprietary	PII	Unclassified	PCI DSS	PHI	A
-Mar-23	129	A security professional has received documentation containing a Common Vulnerabilities and Exposures number. Which of the following would BEST describe this number?	Open-source intelligence	Automated Indicator Sharing	Advanced persistent threat	Vulnerability feed	Request for comments	D
-Mar-23	130	A point of sale terminal is transmitting information to a processor to validate credit card information. Which of these would best describe this communication?	"Tactics, techniques, and procedures"	Vulnerability scanning	Data in-transit	DNS sinkhole	"Security orchestration, automation, and response"	C
-Mar-23	131	A company is using a cloud-based service to provide centralized authentication for all of their users. Which of the following would BEST describe this service?	COPE	CA	SED	ALE	IdP	E
-Mar-23	132	The Vice President of Sales has asked the IT team to create daily backups of the sales data. The Vice President is an example of a:	Data owner	Data protection officer	Data steward	Data processor	N/A	A
-Apr-23	133	Which of the following would be the least volatile?	Temporary files	Backup tapes	CPU registers	NetFlow data	Routing table	B
-Apr-23	134	A credit card transaction has replaced the actual card number with a different number. Which of the following would BEST describe this data privacy technique?	Data minimization	Tokenization	Anonymization	Data masking	N/A	B
-Apr-23	135	A security team has been tasked with maintaining firewalls and identifying vulnerabilities in the company network. Which of the following would BEST describe this team?	Red team	Orange team	White team	Purple team	Blue team	D
-Apr-23	136	Which of the following commonly controls security for a screened subnet?	Faraday cage	Protected distribution system	Firewall	Proximity reader	Active Directory	C
-Apr-23	137	A system administrator has protected a set of system backups with an encryption key. The system administrator used the same key when restoring files from this backup. Which of the following would BEST describe this encryption type?	Asymmetric	Key escrow	Symmetric	Out-of-band key exchange	N/A	C
-May-23	138	Which of the following would be the BEST choice for securing voice and video communication?	SRTP	LDAPS	S/MIME	NTPsec	SNMPv3	A
-May-23	139	A security administrator is writing a script to search the source of a web page. Which of the following would BEST provide this functionality?	curl	scanless	ifconfig	Cuckoo	dnsenum	A
-May-23	140	Which of the following would describe a compensating security control?	IPS	Door lock	Motion detector	Warning sign	Power generator	E
-May-23	141	A security administrator has been hired as a member of the blue team. Which of the following would BEST describe one of their new job functions?	Social engineering	Security exercise referee	Ethical hacking	Threat hunting	Vulnerability exploitation	D
-May-23	142	A company would like to protect the data stored on laptops used in the field. Which of the following would be the BEST choice for this requirement?	MAC	SED	CASB	SOAR	N/A	B
-Jun-23	143	An identical key is used to encrypt and decrypt a file. Which of the following describes this encryption?	Quantum	Ephemeral	Blockchain	Key stretching	Symmetric	E
-Jun-23	144	A company has enabled RADIUS Federation. Which of the following would BEST describe this feature?	Enable features based on geographical location	Authenticate from another organization's network	Increase capacity during high utilization	Disable network access prior to authentication	Apply policies from Active Directory	B
-Jun-23	145	A security admin needs to modify a portion of a system's boot sector. Which of the following would be the BEST choice for this task?	FTK imager	dd	WinHex	memdump	Autopsy	C
-Jun-23	146	An organization is using the SSAE SOC 2 Type II framework. Which of the following would MOST likely be associated with this framework?	System audit	Security policies	A list of known vulnerabilities	Disaster recovering planning	Encrypted tunnels	A
-Jun-23	147	An organization is unable to reliably use 802.11 networks or Bluetooth devices. Which of the following would be the MOST likely reason for this issue?	On-path attacks	Cross-site scripting	Logic bomb	RF jamming	Brute force attacks	D
-Jul-23	148	Which of the following would be the BEST way to save energy in a data center?	Air gaps	Hot and cold aisles	Industrial camouflage	East-West traffic	VLANs	B
-Jul-23	149	Which of the following would be MOST likely to verify the entity requesting a certificate?	Online Certificate Status Protocol	Common Name	Registration Authority	Certificate Revocation List	Internet Message Access Protocol	C
-Jul-23	150	Which of the following would be the BEST way to send data to a specific remote port?	netcat	route	grep	dig	tail	A
-Jul-23	151	Which of the following would be the BEST example of a preventive control type?	IDS	Weekly backups	Warning sign	Security guard	Hot site	D
-Jul-23	152	A new access point was exploited and disabled by an attacker in less than 8 hours after installation. Which of the following would be the MOST likely reason for this exploit?	Zero-day attack	Wireless jamming	On-path attack	Wireless disassociation	Default settings	E
-Jul-23	153	A server administrator at a bank has noticed a decrease in the number of visitors to the bank's website. Additional research shows that users are being directed to a different IP address than the bank's web server. Which of the following would MOST likely describe this attack?	Disassociation	DDoS	Buffer overflow	DNS poisoning	N/A	D
-Aug-23	154	A security administrator would like to block users from visiting known malicious Internet locations. Which of the following would provide this security?	Honeypot	DNS sinkhole	DLP	Fake telemetry	Embedded system	B
-Aug-23	155	A user needs to digitally sign a document before sending it to a third party. Which of the following will be used to create this digital signature?	Sender's public key	Recipient's private key	Recipient's public key	Diffie-Hellman symmetric key	Sender's private key	E
-Aug-23	156	An application developer has embedded a certificate into a mobile app. Which of the following would BEST describe the app's use of this certificate?	Pinning	Hashing	Self-signed	Escrow	Stapling	A
-Aug-23	157	A system administrator has determined that a spoofed email originated in another country. Which of the following MOST likely provided this information?	Netflow	Syslog	Metadata	IPFIX	sFlow	C
-Aug-23	158	A manufacturing company has moved an inventory application from their internal systems to a PaaS service. Which of the following would be the BEST way to manage security policies on this new service?	DLP	SIEM	IPS	CASB	N/A	D
-Sep-23	159	Which of the following would BEST describe the amount of time required to fix an issue during an outage?	RTO	MTTR	EULA	MTBF	RPO	B
-Sep-23	160	Which of the following would be the BEST way to transfer data to a SIEM?	IPsec	Syslog	HTTPS	SSH	SFTP	B
-Sep-23	161	Which of the following would be the BEST way to direct individuals through a specific area?	Motion detection	CCTV	Bollard	Protected distribution	Industrial camouflage	C
-Sep-23	162	Which of these would provide management of both mobile and non-mobile devices?	MDM	MAM	SNMP	UEM	HSM	D
-Oct-23	163	Which of the following provides a framework for better understanding the techniques which may be used by a potential attacker?	MITRE ATT&CK	Cyber kill chain	OSI	IEEE	Diamond model	A
-Oct-23	164	Which of the following would be categorized as an operational security control?	Security policy	Firewall	Hot site	Warning sign	Security guard	E
-Oct-23	165	"A network administrator has identified a device sending a large amount of traffic to an external IP address. The computer is power on, but the user is on vacation. Which of the following would be the MOST likely reason for this traffic?"	Botnet	Logic bomb	Spraying	MAC spoofing	Skimming	A
-Oct-23	166	A package delivery receipt includes the signature of the receiving party. Which of the following would describe the signature on this receipt?	Something you are	Something you have	Something you can do	Somewhere you are	Something you know	C
-Oct-23	167	A user digitally signs all email messages sent to external recipients. Which of the following would be used to provide this functionality?	SaaS	IPsec tunnel	LDAPS	S/MIME	SRTP	D
-Oct-23	168	"A security engineer runs a monthly vulnerability scan. The scan doesn't list any vulnerabilities for Windows servers, but a significant vulnerability was announced last week and none of the servers are patched yet. Which of the following best describes this result?"	Exploit	Credentialed	Zero-day attack	False negative	N/A	D
-Nov-23	169	A security administrator needs to search a storage drive to obtain email messages and browser histories. Which of the following would provide this functionality?	theHarvester	Autopsy	Nessus	dnsenum	memdump	B
-Nov-23	170	An internet provider is required to replace faulty equipment within four hours of an outage. Where would these requirements be documented?	EULA	NDA	SLA	EOL	BPA	C
-Nov-23	171	An attacker has placed malicious code on a local coffee shop website in the hopes of infecting systems from a nearby manufacturing company. Which of the following would BEST describe this attack?	Watering hole	Tailgating	Impersonation	Dumpster diving	Logic bomb	A
-Nov-23	172	A security administrator has been asked to securely dispose of printed materials created during a recent financial project. Which of the following would be the BEST way to complete this task?	Degaussing	Drilling	Secure wiping	Pulping	Hammering	D
-Nov-23	173	"Your development team has installed a new application and database to a cloud service. After running a vulnerability scanner on the application instance, you find that the database is available for anyone to query without providing any authentication. Which of these vulnerabilities is MOST associated with this issue?"	Improper error handling	Open permissions	Race condition	Memory leak	N/A	B
-Dec-23	174	A user's browser will only send session keys over an encrypted connection. Which of the following would BEST describe this functionality?	Code signing	Input validation	Static code analysis	Secure cookies	Fuzzing	D
-Dec-23	175	A security administrator is gathering data from a compromised host. Which of the following should be gathered first?	Any previous backups	Drive image	Default router configuration	/tmp directory contents	Memory dump	E
-Dec-23	176	"A company loses $1,000 each time a tablet device is stolen. Which of the following would describe this information?"	RPO	SLE	MTBF	RTO	ALE	B
-Dec-23	177	A team in the security department is responsible for scanning and exploiting vulnerabilities on the company network. Which of the following would BEST describe this team?	Blue	White	Purple	Green	Red	E
-Dec-23	178	A Linux administrator is downloading an updated version of her Linux distribution. The download site shows a link to the ISO and a SHA256 hash value. Which of these would describe the use of this hash value?	Verifies that the file was not corrupted during the file transfer	Provides a key for decrypting the ISO after download	Authenticates the site as an official ISO distribution site	Confirms that the file does not contain any malware	N/A	A
+21-Jan	1	Which of the following is responsible for enforcing rules during a cybersecurity exercise?	White team	Purple team	Red team	Blue team	N/A	A
+21-Jan	2	Which of the following would be considered an authentication attribute?	Something you know	Something you have	Somewhere you are	Something you are	N/A	C
+21-Jan	3	Which of the following is used by WPA3 to prevent PSK brute force attacks?	AES	SAE	Strong passwords	CCMP	N/A	B
+21-Jan	4	A security team has been asked to document information in the Diamond Model. Which of the following BEST describes this model?	Encryption Complexity	Disaster Recovery Process	Application Containerization	Intrusion Analysis	N/A	D
+21-Jan	5	Which of the following companies would be MOST likely to manage PHI?	Car manufacturing	Airport transportation	Surgery center	Credit card services	N/A	C
+21-Jan	6	An attacker is modifying data sent in real-time between two devices. Which of the following attacks is MOST likely in use?	On-path	Wireless jamming	Denial of service	MAC flooding	N/A	A
+21-Feb	7	Which of the following would be the BEST way to provide connectivity to VPCs?	Transit gateway	Containerization manager	Function as a Service	Rapid elasticity	N/A	A
+21-Feb	8	Which of the following would be the BEST way to monitor a cloud-based microservice architecture?	IPS	SNMP traps	IPsec	API inspection	N/A	D
+21-Feb	9	Which of the following would be the BEST method of sending data to a specific port number on a remote device?	traceroute	netcat	dig	route	N/A	B
+21-Feb	10	Which security framework is mandatory for US federal agencies and includes a six step process?	NIST RMF	SSAE SOC 2 TYPE I/II	CSA CCM	CIS CSC	N/A	A
+21-Feb	11	Which of these threat actors would be motivated by social change and would likely have limited funding options?	Nation state	Shadow IT	Competitor	Hacktivist	Organized crime	D
+21-Mar	12	A system administrator has replaced a storage drive and restored a server from backup using a full backup and multiple additional tape sets. Which of the following would BEST describe this backup type?	Incremental	Full	Scheduled	Differential	Imaged	A
+21-Mar	13	Which of these features is available when using MAM?	Automated failover	Enterprise app catalog	Encrypted tunnels	Multiple authentication factors	FDE	B
+21-Mar	14	A system administrator would like to identify all known vulnerabilities on a remote device. Which of the following would be the BEST choice for this task?	Cuckoo	dnsenum	scanless	theHarvester	Nessus	E
+21-Mar	15	"A pair of managers in the IT department have access to the safe, but each person only knows half of the combination. Which of the following would describe this policy?"	Least privilege	Separation of duties	Corrective control	Clean desk policy	Non-disclosure agreement	B
+21-Mar	16	An attacker has circumvented a security control by modifying their MAC address. Which of the following would describe this attack type?	Cloning	Denial of service	Jamming	Rogue access point	Malicious script	A
+21-Mar	17	A data center optimizes the cooling process by specifying the orientation of equipment during installation. Which of the following would describe this technique?	Air gap	Dual power supplies	Hot and cold aisles	Faraday cage	USB data blocker	C
+21-Apr	18	A security engineer would like to connect a private cloud subnet to other cloud services. Which of the following would be the BEST choice?	Default route	SSL VPN	VPC gateway	Container	WPA3	C
+21-Apr	19	An endpoint security client has identified a suspicious application and moved the file to a safe area. Which of the following would describe this activity?	Approval list	Hash identification	Quarantine	Digital signature	Block list	C
+21-Apr	20	Which of the following would be MOST associated with AIS?	STIX and TAXII	0-day attacks	Syslog	Data exfiltration	Encrypted tunnel	A
+21-Apr	21	A database has been modified so that every person listed in the database has been replaced with a completely different first and last name. Which of the following would BEST describe this modification?	Proxy	Pseudonymization	Intelligence fusion	OSINT	Fake telemetry	B
+21-Apr	22	A user inputs a PIN during the login process. Which of the following would describe this authentication method?	TOTP	Push notification	Attestation	Static code	Federation	D
+21-May	23	Which of the following is used to secure WPA3 PSK authentication?	SAE	CCMP	WPS	TKIP	CBC-MAC	A
+21-May	24	Which of these best describes authentication that is genuine with high confidence?	Hashing	Integrity	Counterintelligence	E-discovery	Non-repudiation	E
+21-May	25	Which of the following would be the BEST example of a detective security control?	IPS	Security policy	Fence	Hot site	Backup	A
+21-May	26	Which of these would BEST describe a ZIP bomb?	Directory traversal	NULL pointer dereference	API attack	Memory leak	Resource exhaustion	E
+21-May	27	Which of the following would be the best way to prevent a worm entering the network through a USB flash drive?	NGFW	DNS sinkhole	DLP	SIEM	Screened subnet	C
+21-Jun	28	Which of the following is commonly used to verify device drivers during Windows startup?	ELAM	TPM	RBAC	802.1X	HSM	A
+21-Jun	29	A pentester is gathering OSINT prior to a scheduled test. Which of the following would be the BEST choice for this task?	Nmap	curl	theHarvester	Cuckoo	Nessus	C
+21-Jun	30	A prospective employee was dropped from a job consideration after receiving the results of a background check. Which of the following describes this process?	Offboarding	Adverse action	Contingency planning	NDA	PII	B
+21-Jun	31	Which of the following would use rules to limit API communication?	TLS	WAF	NAT	SSH	VPN	B
+21-Jun	32	Which of the following allows the browser to check for certificate revocation?	OCSP	TLS	CN	CSR	CA	A
+21-Jul	33	Which of the following provides a knowledge base of adversary tactics and techniques?	Diamond model	EAP-TTLS	MITRE ATT&CK framework	ISO 31000	SSAE SOC 2	C
+21-Jul	34	Which security control would MOST associated with a backup generator?	Physical	Compensating	Detective	Preventive	Managerial	B
+21-Jul	35	Which of the following would be the BEST way to randomize multiple hashes of the same data?	SDN	FDE	Key exchange	VPN	Salt	E
+21-Jul	36	Which of the following would determine which laws would apply to stored data?	Diffusion	Data-at-rest	Sovereignty	Information Rights Management	Masking	C
+21-Jul	37	Which of the following would be the MOST secure way of viewing traffic statistics from a router?	SNMPv3	FTPS	SMB	RDP	Telnet	A
+21-Aug	38	A security administrator would like to restrict application use to a predefined set of apps. Which of the following would BEST describe this security type?	Deny list	Quarantine	DLP	Approved List	Segmentation	D
+21-Aug	39	"A company has determined that laptops valued at $50,000 have been stolen over the last calendar year. Which of the following would describe this value?"	ARO	Risk appetite	SLE	ALE	Inherent Risk	D
+21-Aug	40	Which of the following would be categorized as OSINT?	Annual financial report	File of password hashes	ISO 27701	DNS sinkhole address	SSH login without a password	A
+21-Aug	41	Which of the following would commonly be used for an IoT sensor located in the middle of a 40 acre pasture on a farm?	Zigbee	Narrowband	1000BASE-T	802.1X	Bluetooth	B
+21-Aug	42	Which of the following uses GCMP block cipher mode as the encryption method?	EAP-TLS	WPS	WPA3	SFTP	RADIUS federation	C
+21-Sep	43	Which of the following would be the BEST way to add information to a Linux system log?	grep	tail	dnsenum	tcpdump	logger	E
+21-Sep	44	The vice president of sales is responsible for all customer relationship data. Which of the following would BEST describe this VP?	Data custodian	Data owner	Data protection officer	Data controller	Data processor	B
+21-Sep	45	"A scan has identified a vulnerability on a Windows server, but the server has been previously patched for the vulnerability. Which of the following would BEST describe this result?"	False negative	Credentialed scan	Low-severity	False positive	Non-intrusive scan	D
+21-Sep	46	Which of the following is the meeting point between FAR and FRR?	CER	AES	TPM	MTBF	CSR	A
+21-Sep	47	Which of the following provides a method of creating secure digital signatures in an email client?	S/MIME	SRTP	IPsec	LDAPS	NTPsec	A
+21-Oct	48	Which of these provides the BEST way to indirectly identify an open port?	theHarvester	dnsenum	scanless	curl	sn1per	C
+21-Oct	49	Which of the following focuses on a user's control of their personal data?	PCI DSS	SIEM	HIPAA	SOX	GDPR	E
+21-Oct	50	Which of these attack types would cause a switch to send data to all interfaces?	DNS poisoning	Rogue access point	Bluejacking	MAC flooding	Domain hijacking	D
+21-Oct	51	A user has an image with data hidden inside of the file. Which of the following would describe this data storage?	Hashing	Steganography	Quantum computing	Asymmetric	Blockchain	B
+21-Oct	52	Which secure protocol would be the BEST choice for a site-to-site VPN?	DNSSEC	LDAPS	IPsec	SFTP	SNMPv3	C
+21-Nov	53	A security administrator would like to view a summary of network conversations for the last 24 hours. Which of the following would provide this information?	sFlow	TAXII	OWASP	HSM	OSINT	A
+21-Nov	54	Which of the following would be the BEST choice for a preventive security control?	Motion detector	Backup tapes	IDS	Hot site	Firewall	E
+21-Nov	55	Which of the following would be categorized as passive footprinting?	Port scan	OS fingerprinting	Reading a forum	Ping scan	DNS query	C
+21-Nov	56	Which of the following would be considered data at-rest?	Data sent over an IPsec link	Verification of a digital signature	Password hashes stored in a SQL database	Rendering a video file	Transfer of data to a backup site	C
+21-Nov	57	Which of the following would be the BEST way to prevent loops on a layer two network?	BPDU guard	STP	MAC filtering	DHCP snooping	Broadcast storm control	B
+21-Dec	58	"Which of the following provides documentation on attack methods, techniques, and mitigation information?"	Diamond model	NIST Risk Management Framework	ISO/IEC 27701	MITRE ATT&CK framework	SSAE SOC 2 Type I/II	D
+21-Dec	59	A system administrator is installing an application to automatically transfer files between servers. Which of the following account types should be created?	Service	Third-party	Personnel	Administrative	Device	A
+21-Dec	60	An attacker is intercepting and modifying information sent in real-time across the network. Which of the following would BEST describe this attack type?	RFID attack	Wireless disassociation	DDoS	MAC flooding	On-path attack	E
+21-Dec	61	A system administrator would like to prevent an outage if the server's network adapter fails. Which of the following would provide this functionality?	UPS	RAID 5	NIC teaming	SAN replication	Differential backup	C
+21-Dec	62	A security administrator would like to prevent brute force attacks on 802.11 PSK handshakes. Which of the following would provide this protection?	AES	WPA3	CCMP	WPS	TKIP	B
+22-Jan	63	A security researcher would like to safely test downloaded applications for malware before deployment. Which of the following would provide this functionality?	Nessus	theHarvester	sn1per	hping	Cuckoo	E
+22-Jan	64	A company has decided to remove all Internet access from a manufacturing floor. Which of the following management strategies would BEST describe this course of action?	Assessment	Mitigation	Risk-avoidance	Transference	Acceptance	C
+22-Jan	65	"A caller to the help desk needs to have a password reset, and they say that payroll checks won't be processed without the reset? Which of the following social engineering principles is in use?"	Intimidation	Familiarity	Authority	Trust	Social proof	A
+22-Jan	66	A user is logging into a third-party accounting service with their Google credentials. Which of the following would describe this authentication method?	Multi-factor	TOTP	Federation	Push notification	Smart card	C
+22-Jan	67	A security administrator would like to monitor an application for invalid JSON strings. Which of the following would be the BEST choice for this task?	SWG	IPS	IPsec	MDM	SAE	A
+22-Feb	68	Which of the following tools would allow a security administrator to extract a browser history from a drive image?	hping	Autopsy	theHarvester	Nessus	sn1per	B
+22-Feb	69	An audit has found credit card transfers sent across the network in plaintext. Which of the following would be non-compliant for this issue?	GDPR	802.1X	OWASP	PCI DSS	TPM	D
+22-Feb	70	Which of the following would BEST describe an IOC?	A system is expected to fail every three years	All wireless traffic is encrypted	An audit is performed every six months	All laptops are configured for FDE	A file hash value has changed	E
+22-Feb	71	Which of the following technologies store information in a distributed ledger?	CASB	HSM	Blockchain	SSID	PII	C
+22-Mar	72	An administrator would like to determine the wireless signal strength in each office of a building. Which of the following would be the BEST choice for this task?	Site survey	Port scanner	Light meter	Tone generator	Vulnerability scanner	A
+22-Mar	73	A security administrator needs to capture network packets to a file for additional processing. Which of the following would be the BEST choice for this task	grep	tcpdump	theHarvester	Nessus	Nmap	B
+22-Mar	74	An invoicing application shows credit card information with asterisks instead of the actual numbers. Which of the following would BEST describe this technique?	Tokenization	Pseudo-anonymization	Symmetric encryption	Data minimization	Data masking	E
+22-Mar	75	An attacker has obtained files from a web server that are stored outside of the site's file directory. Which of the following would BEST describe this attack type?	Resource exhaustion	Replay attack	SSL stripping	NULL Pointer dereference	Directory traversal	E
+22-Mar	76	A user is verifying the contents of an email by using the public key of the sender. Which of the following BEST describes this verification?	Steganography	Blockchain	Digital signature	Symmetric encryption	Quantum computing	C
+22-Mar	77	A user connecting to the wireless network receives a login prompt in their browser with an authentication request. Which of the following would BEST describe this process?	WPS	AES	WPA3	Captive portal	Something you are	D
+22-Apr	78	A Linux administrator needs to prevent users from accessing a certain system file. Which of the following would provide this function?	chmod	logger	tail	sn1per	netstat	A
+22-Apr	79	A company requires that each employee maintain confidentiality regarding the tasks of their employment. Which of the following would be used to maintain this confidentiality?	EULA	Split knowledge	Off-boarding	NDA	AUP	D
+22-Apr	80	Which of the following would prevent an attacker from using a rainbow table against a set of password hashes?	Rootkit	Salt	AES	RAT	Supply chain attack	B
+22-Apr	81	Which of the following would be the BEST example of an RTOS?	USB data blocker	RAID	Steganography	Fog computing	Automobile	E
+22-Apr	82	"A company has removed all of their data from a user's mobile phone, but the user's private information remains on the device. Which of the following would BEST describe this functionality?"	Context-aware authentication	Full device encryption	Containerization	Biometrics	Geofencing	C
+22-May	83	Which of the following data types is the MOST volatile?	Backup tapes	Temporary files	ARP cache	Router configuration	Stored log files	C
+22-May	84	Which of the following would be categorized as a detective security control?	Door lock	Motion sensor	Backup power system	UPS	Warning sign	B
+22-May	85	An administrator was able to determine the password for each email login occurring during a morning security test. Which of the following would be the MOST likely explanation?	MAC spoofing	Replay attack	Driver manipulation	Wireless disassociation attack	Insecure protocols	E
+22-May	86	Which of the following would be MOST associated with TOTP?	GPS coordinates	Phone app	Faraday cage	Diamond model	Air gap	B
+22-Jun	87	Which of the following would provide the BEST security for a cloud-based microservice architecture?	API monitoring	NGFW	Real-time anti-malware	Segmented VLANs	IPS	A
+22-Jun	88	"A pentester would like to perform a port scan to a remote device, but have the scan source originate from another country. Which of the following would be the BEST choice for this requirement?"	sn1per	Nessus	theHarvester	scanless	hping	D
+22-Jun	89	A company is performing an audit to ensure that all credit card transactions are secure. Which of the following would provide guidelines for this audit?	GDPR	EULA	NDA	PCI DSS	SOX	D
+22-Jun	90	A security operations center has been informed of a new vulnerability with a CVSS of 9.0. Which of the following would provide more information on this score?	National Vulnerability Database	SOAR	Microsoft Security Bulletins	CASB	SIEM	A
+22-Jul	91	A user has misplaced a flash drive containing a database with sensitive information. Which of the following would BEST describe the state of this database?	Redundant	Data at rest	FDE	False positive	Digitally signed	B
+22-Jul	92	A user has copied a presentation to a folder and shared the folder with everyone in the Marketing group. Which of the following would BEST describe this type of access control?	Rule-based	Conditional	Discretionary	802.1X	Mandatory	C
+22-Jul	93	"A security administrator has received this information in a log file: 2020-Oct-05 00:10:43 Informational %LINK-I-Up: gi7, aggregated (1). Which of the following would be the MOST likely source of this log entry?"	Firewall	Proxy	DNSenum	File server	Switch	E
+22-Jul	94	A company has determined that ten tablets are stolen or lost in a single year. Which of the following would BEST describe this statistic?	ARO	SLE	QoS	SLA	ALE	A
+22-Jul	95	A security researcher has found a flaw in an application that allows unauthorized access to the file system. Which of the following would BEST describe this issue?	DoS	Social engineering	Replay attack	Privilege escalation	SSL stripping	D
+22-Aug	96	A security administrator needs to prevent all communication between two subnets. Which of the following would be the BEST option for this requirement?	Cold aisle	IPsec tunnel	Air gap	Biometric locks	Next-generation firewall	C
+22-Aug	97	A security researcher has created an image from an infected storage drive. Which of the following would be the best way to ensure non-repudiation of the image?	Keep a backup of the image	Create a digital signature	Store the drive in a locked cabinet	Transfer all data over an encrypted channel	Hire a third-party to store the image	B
+22-Aug	98	A security researcher has found a flaw in an application that allows unauthorized access to the file system. Which of the following would BEST describe this issue?	BPA	NDA	MOU	SLA	MSA	E
+22-Aug	99	An attacker has captured all traffic from a switch without using a tap or on-path technique. Which of the following would allow the attacker access to this data?	Wireless jamming	Bluesnarfing	Denial of service	MAC flooding	Malicious script	D
+22-Sep	100	A company would like to securely remove all data from a hard drive and redeploy the drive on another computer. Which of the following would provide this option?	Secure wipe	Degaussing	Shredder	Quick format	Replace the platters	A
+22-Sep	101	A security administrator is sending some data to an open port on a remote device. Which of the following would provide this functionality?	ifconfig	netcat	ARP cache	route	netstat	B
+22-Sep	102	"During login, a notice is shown with a warning against any illegal use of the system. Which control type is associated with this banner?"	Deterrent	Corrective	Detective	Physical	Compensation	A
+22-Sep	103	A system administrator is authenticating all users to a central database. Which of the following would be the best way to implement this authentication method?	DNSSEC	S/MIME	SRTP	SSH	LDAPS	E
+22-Sep	104	Which of the following would be the BEST way to provide non-repudiation?	Hash	Sector-by-sector image	Business continuity plan	Digital signature	SSO	D
+22-Oct	105	"Before access is allowed through a VPN, a user's computer is checked for the latest anti-virus signatures and security patches. Which of the following describes this process?"	Multi-factor authentication	Directory services	Data loss prevention	Posture assessment	Penetration testing	D
+22-Oct	106	Which of these would BEST describe a database containing the results of a blood test?	QoS	PHI	BPDU	DRM	STIX	B
+22-Oct	107	An attacker is using an on-path attack to gain access to data over an encrypted connection. Which of the following would BEST describe this attack?	Cross-site scripting	Logic bomb	SSL stripping	Directory traversal	SQL injection	C
+22-Oct	108	Which of the following would describe a key exchange occurring beyond the scope of the network?	Symmetric	Certificate	Perfect forward secrecy	Hashing	Out-of-band	E
+22-Oct	109	A security administrator has disabled WPS on a wireless network. What is the MOST likely reason for this configuration change?	Increase performance	Updating to WPS2	Reduce the frequency conflicts	Reduce output power	Cryptographic vulnerability	E
+22-Oct	110	"A security technician is collecting forensic evidence from a laptop computer. Between the temporary files, backup tapes, memory, and Windows system files, which should be collected FIRST?"	Temporary files	Backup tapes	Memory	Windows system files	N/A	C
+22-Dec	111	Which of the following would be the MOST important reason for a mandatory vacation policy?	Identity fraud	Apply least privilege to all users	Implement a clean desk policy	Require at least two people to be present	Execute an NDA	A
+22-Dec	112	Which of the following would be commonly found in a SIEM database?	Usernames and password hashes	A list of all IT assets in an organization	Monthly Microsoft update files	Switch and router logs	Vulnerability scan results	D
+22-Dec	113	Which of the following would be the BEST way for a security administrator to validate each system connecting to a network?	Federation	Attestation	Multi-factor authentication	Directory services	Smart cards	B
+22-Dec	114	A company would like to ensure an application has not been modified before deployment. Which of the following would provide this validation?	Https encryption	Fuzzing	Code signing	Input validation	Secure cookies	C
+22-Dec	115	A security administrator is using theHarvester. What type of information would they MOST likely be harvesting?	Open port numbers	Plaintext authentication	Unpatched vulnerabilities	Active IP addresses	Publicly available information	E
+22-Dec	116	Which of the following would be the BEST way to provide a website login using existing credentials from a third-party site	Federation	802.1X	PEAP	EAP-Fast	N/A	A
+23-Jan	117	A US Federal government agency is using a six-step process for information security. Which of the following would BEST describe this framework?	NIST RMF	SSAE SOC 2 TYPE I/II	CSA CCM	ISO/IEC 27001	CIS CSC	A
+23-Jan	118	Which type of threat actor commonly gains unauthorized access to a system without any knowledge of the underlying exploit?	Nation state	Shadow IT	Insiders	Script kiddies	Competitors	D
+23-Jan	119	Which type of computing manages some data locally instead of processing all data on a cloud service?	SaaS	Fog computing	Hashing	Load balancing	IoT	B
+23-Jan	120	Which of the following would BEST describe network traffic between devices in the same data center?	VPN	Extranet	VLAN	Screened subnet	East-west traffic	E
+23-Jan	121	An administrator has received a report with a list of servers running up an unsupported operating system version. Which of the following would BEST describe this report?	IPS log	DNS enumeration	Vulnerability scan	OSINT analysis	Brute-force attack	C
+23-Feb	122	A company has added a 24-hour security guard to process guests at the main entrance of their building. Which security control would describe this scenario?	Preventive	Compensating	Detective	Technical	Corrective	A
+23-Feb	123	Which of the following would BEST describe an OT DoS?	Power system failure	Web server kernel fault	L2 network loop	Email server buffer overflow	DNS server outage	A
+23-Feb	124	Which of the following multi-factor authentication attributes would be associated with signing for a package delivery?	Somewhere you are	Someone you know	Something you can do	Cloud authentication	Something you exhibit	C
+23-Feb	125	Which of the following would be the BEST way to securely store web server encryption keys?	Jump server	HSM	Load balancer	Reverse proxy	IPS	B
+23-Feb	126	A security engineer has collected evidence from a security breach. Which of the following would maintain data integrity and avoid tampering of this data?	Legal hold	FDE	Event log capture	RAID	Chain of custody	E
+23-Feb	127	"A CISO (Chief Information Security Officer) would like to decrease the response time when addressing security incidents. Unfortunately, the company does not have the budget to hire additional security engineers. Which of the following would assist the CISO with this requirement?"	ISO 27701	PKI	IaaS	SOAR	N/A	D
+23-Mar	128	A company has documented a unique method of manufacturing their products. Which of the following would BEST categorize this data?	Proprietary	PII	Unclassified	PCI DSS	PHI	A
+23-Mar	129	A security professional has received documentation containing a Common Vulnerabilities and Exposures number. Which of the following would BEST describe this number?	Open-source intelligence	Automated Indicator Sharing	Advanced persistent threat	Vulnerability feed	Request for comments	D
+23-Mar	130	A point of sale terminal is transmitting information to a processor to validate credit card information. Which of these would best describe this communication?	"Tactics, techniques, and procedures"	Vulnerability scanning	Data in-transit	DNS sinkhole	"Security orchestration, automation, and response"	C
+23-Mar	131	A company is using a cloud-based service to provide centralized authentication for all of their users. Which of the following would BEST describe this service?	COPE	CA	SED	ALE	IdP	E
+23-Mar	132	The Vice President of Sales has asked the IT team to create daily backups of the sales data. The Vice President is an example of a:	Data owner	Data protection officer	Data steward	Data processor	N/A	A
+23-Apr	133	Which of the following would be the least volatile?	Temporary files	Backup tapes	CPU registers	NetFlow data	Routing table	B
+23-Apr	134	A credit card transaction has replaced the actual card number with a different number. Which of the following would BEST describe this data privacy technique?	Data minimization	Tokenization	Anonymization	Data masking	N/A	B
+23-Apr	135	A security team has been tasked with maintaining firewalls and identifying vulnerabilities in the company network. Which of the following would BEST describe this team?	Red team	Orange team	White team	Purple team	Blue team	D
+23-Apr	136	Which of the following commonly controls security for a screened subnet?	Faraday cage	Protected distribution system	Firewall	Proximity reader	Active Directory	C
+23-Apr	137	A system administrator has protected a set of system backups with an encryption key. The system administrator used the same key when restoring files from this backup. Which of the following would BEST describe this encryption type?	Asymmetric	Key escrow	Symmetric	Out-of-band key exchange	N/A	C
+23-May	138	Which of the following would be the BEST choice for securing voice and video communication?	SRTP	LDAPS	S/MIME	NTPsec	SNMPv3	A
+23-May	139	A security administrator is writing a script to search the source of a web page. Which of the following would BEST provide this functionality?	curl	scanless	ifconfig	Cuckoo	dnsenum	A
+23-May	140	Which of the following would describe a compensating security control?	IPS	Door lock	Motion detector	Warning sign	Power generator	E
+23-May	141	A security administrator has been hired as a member of the blue team. Which of the following would BEST describe one of their new job functions?	Social engineering	Security exercise referee	Ethical hacking	Threat hunting	Vulnerability exploitation	D
+23-May	142	A company would like to protect the data stored on laptops used in the field. Which of the following would be the BEST choice for this requirement?	MAC	SED	CASB	SOAR	N/A	B
+23-Jun	143	An identical key is used to encrypt and decrypt a file. Which of the following describes this encryption?	Quantum	Ephemeral	Blockchain	Key stretching	Symmetric	E
+23-Jun	144	A company has enabled RADIUS Federation. Which of the following would BEST describe this feature?	Enable features based on geographical location	Authenticate from another organization's network	Increase capacity during high utilization	Disable network access prior to authentication	Apply policies from Active Directory	B
+23-Jun	145	A security admin needs to modify a portion of a system's boot sector. Which of the following would be the BEST choice for this task?	FTK imager	dd	WinHex	memdump	Autopsy	C
+23-Jun	146	An organization is using the SSAE SOC 2 Type II framework. Which of the following would MOST likely be associated with this framework?	System audit	Security policies	A list of known vulnerabilities	Disaster recovering planning	Encrypted tunnels	A
+23-Jun	147	An organization is unable to reliably use 802.11 networks or Bluetooth devices. Which of the following would be the MOST likely reason for this issue?	On-path attacks	Cross-site scripting	Logic bomb	RF jamming	Brute force attacks	D
+23-Jul	148	Which of the following would be the BEST way to save energy in a data center?	Air gaps	Hot and cold aisles	Industrial camouflage	East-West traffic	VLANs	B
+23-Jul	149	Which of the following would be MOST likely to verify the entity requesting a certificate?	Online Certificate Status Protocol	Common Name	Registration Authority	Certificate Revocation List	Internet Message Access Protocol	C
+23-Jul	150	Which of the following would be the BEST way to send data to a specific remote port?	netcat	route	grep	dig	tail	A
+23-Jul	151	Which of the following would be the BEST example of a preventive control type?	IDS	Weekly backups	Warning sign	Security guard	Hot site	D
+23-Jul	152	A new access point was exploited and disabled by an attacker in less than 8 hours after installation. Which of the following would be the MOST likely reason for this exploit?	Zero-day attack	Wireless jamming	On-path attack	Wireless disassociation	Default settings	E
+23-Jul	153	A server administrator at a bank has noticed a decrease in the number of visitors to the bank's website. Additional research shows that users are being directed to a different IP address than the bank's web server. Which of the following would MOST likely describe this attack?	Disassociation	DDoS	Buffer overflow	DNS poisoning	N/A	D
+23-Aug	154	A security administrator would like to block users from visiting known malicious Internet locations. Which of the following would provide this security?	Honeypot	DNS sinkhole	DLP	Fake telemetry	Embedded system	B
+23-Aug	155	A user needs to digitally sign a document before sending it to a third party. Which of the following will be used to create this digital signature?	Sender's public key	Recipient's private key	Recipient's public key	Diffie-Hellman symmetric key	Sender's private key	E
+23-Aug	156	An application developer has embedded a certificate into a mobile app. Which of the following would BEST describe the app's use of this certificate?	Pinning	Hashing	Self-signed	Escrow	Stapling	A
+23-Aug	157	A system administrator has determined that a spoofed email originated in another country. Which of the following MOST likely provided this information?	Netflow	Syslog	Metadata	IPFIX	sFlow	C
+23-Aug	158	A manufacturing company has moved an inventory application from their internal systems to a PaaS service. Which of the following would be the BEST way to manage security policies on this new service?	DLP	SIEM	IPS	CASB	N/A	D
+23-Sep	159	Which of the following would BEST describe the amount of time required to fix an issue during an outage?	RTO	MTTR	EULA	MTBF	RPO	B
+23-Sep	160	Which of the following would be the BEST way to transfer data to a SIEM?	IPsec	Syslog	HTTPS	SSH	SFTP	B
+23-Sep	161	Which of the following would be the BEST way to direct individuals through a specific area?	Motion detection	CCTV	Bollard	Protected distribution	Industrial camouflage	C
+23-Sep	162	Which of these would provide management of both mobile and non-mobile devices?	MDM	MAM	SNMP	UEM	HSM	D
+23-Oct	163	Which of the following provides a framework for better understanding the techniques which may be used by a potential attacker?	MITRE ATT&CK	Cyber kill chain	OSI	IEEE	Diamond model	A
+23-Oct	164	Which of the following would be categorized as an operational security control?	Security policy	Firewall	Hot site	Warning sign	Security guard	E
+23-Oct	165	"A network administrator has identified a device sending a large amount of traffic to an external IP address. The computer is power on, but the user is on vacation. Which of the following would be the MOST likely reason for this traffic?"	Botnet	Logic bomb	Spraying	MAC spoofing	Skimming	A
+23-Oct	166	A package delivery receipt includes the signature of the receiving party. Which of the following would describe the signature on this receipt?	Something you are	Something you have	Something you can do	Somewhere you are	Something you know	C
+23-Oct	167	A user digitally signs all email messages sent to external recipients. Which of the following would be used to provide this functionality?	SaaS	IPsec tunnel	LDAPS	S/MIME	SRTP	D
+23-Oct	168	"A security engineer runs a monthly vulnerability scan. The scan doesn't list any vulnerabilities for Windows servers, but a significant vulnerability was announced last week and none of the servers are patched yet. Which of the following best describes this result?"	Exploit	Credentialed	Zero-day attack	False negative	N/A	D
+23-Nov	169	A security administrator needs to search a storage drive to obtain email messages and browser histories. Which of the following would provide this functionality?	theHarvester	Autopsy	Nessus	dnsenum	memdump	B
+23-Nov	170	An internet provider is required to replace faulty equipment within four hours of an outage. Where would these requirements be documented?	EULA	NDA	SLA	EOL	BPA	C
+23-Nov	171	An attacker has placed malicious code on a local coffee shop website in the hopes of infecting systems from a nearby manufacturing company. Which of the following would BEST describe this attack?	Watering hole	Tailgating	Impersonation	Dumpster diving	Logic bomb	A
+23-Nov	172	A security administrator has been asked to securely dispose of printed materials created during a recent financial project. Which of the following would be the BEST way to complete this task?	Degaussing	Drilling	Secure wiping	Pulping	Hammering	D
+23-Nov	173	"Your development team has installed a new application and database to a cloud service. After running a vulnerability scanner on the application instance, you find that the database is available for anyone to query without providing any authentication. Which of these vulnerabilities is MOST associated with this issue?"	Improper error handling	Open permissions	Race condition	Memory leak	N/A	B
+23-Dec	174	A user's browser will only send session keys over an encrypted connection. Which of the following would BEST describe this functionality?	Code signing	Input validation	Static code analysis	Secure cookies	Fuzzing	D
+23-Dec	175	A security administrator is gathering data from a compromised host. Which of the following should be gathered first?	Any previous backups	Drive image	Default router configuration	/tmp directory contents	Memory dump	E
+23-Dec	176	"A company loses $1,000 each time a tablet device is stolen. Which of the following would describe this information?"	RPO	SLE	MTBF	RTO	ALE	B
+23-Dec	177	A team in the security department is responsible for scanning and exploiting vulnerabilities on the company network. Which of the following would BEST describe this team?	Blue	White	Purple	Green	Red	E
+23-Dec	178	A Linux administrator is downloading an updated version of her Linux distribution. The download site shows a link to the ISO and a SHA256 hash value. Which of these would describe the use of this hash value?	Verifies that the file was not corrupted during the file transfer	Provides a key for decrypting the ISO after download	Authenticates the site as an official ISO distribution site	Confirms that the file does not contain any malware	N/A	A
 Website	179	A social engineering technique whereby attackers under disguise of a legitimate request attempt to gain access to confidential information is commonly referred to as:	Phishing	Privilege escalation	Backdoor access	Shoulder surfing	N/A	A
 Website	180	The practice of using a telephone system to manipulate user into disclosing confidential information is known as:	Whaling	Spear phishing	Vishing	Pharming	N/A	C
 Website	181	Which of the following terms is commonly used to describe an unsolicited advertising message?	Spyware	Adware	Malware	Spam	N/A	D
@@ -254,44 +254,43 @@ Website	252	What is the name of a technology used for contactless payment transa
 Website	253	NFC is vulnerable to:	Data interception	Replay attacks	Denial-of-Service (DoS) attacks	All of the above	N/A	D
 Website	254	"An attacker managed to associate his/her MAC address with the IP address of the default gateway. In result, a targeted host is sending network traffic to the attacker's IP address instead of the IP address of the default gateway. Based on the given info, which type of attack is taking place in this scenario?"	ARP poisoning	Replay attack	Cross-site request forgery	DNS poisoning	N/A	A
 Website	255	Media Access Control (MAC) flooding is a network attack that compromises the security of a network switch by overflowing its memory used to store the MAC address table.	TRUE	FALSE	N/A	N/A	N/A	A
-Website	256	An attack that relies on altering the burned-in address of a NIC to assume the identity of a different network host is known as: (Select 2 answers)	ARP poisoning	On-path attack	MAC spoofing	Replay attack	N/A	C
-Website	257	"The term ""Domain hijacking"" refers to a situation in which domain registrants due to unlawful actions of third parties lose control over their domain names."	TRUE	FALSE	N/A	N/A	N/A	A
-Website	258	Remapping a domain name to a rogue IP address is an example of what kind of exploit?	DNS poisoning	Domain hijacking	ARP poisoning	URL hijacking	N/A	A
-Website	259	URL redirection is a characteristic feature of:	Pharming	Directory traversal attacks	On-path attacks	Typosquatting	N/A	A
-Website	260	Which of the following enables client-side URL redirection?	host	hosts	hostname	localhost	N/A	B
-Website	261	Which of the following factors has the biggest impact on domain reputation?	Domain age	Missing SSL certificate	Derivative content	Bounce rate	N/A	B
-Website	262	"As opposed to the simple Denial of Service (DoS) attacks that usually are performed from a single system, a Distributed Denial of Service (DDoS) attack uses multiple compromised computer systems to perform the attack against its target. The intermediary systems that are used as platform for the attack are the secondary victims of the DDoS attack; they are often referred to as zombies, and collectively as a botnet."	TRUE	FALSE	N/A	N/A	N/A	A
-Website	263	What is the most common form of a DDoS attack?	IoT-based	Network-based	OT-based	Application-based	N/A	B
-Website	264	Which type of DDoS attack targets industrial equipment and infrastructure?	IoT	ATT&CK	OT	IoC	N/A	C
-Website	265	Which of the following answers lists the filename extension of a Microsoft PowerShell script file?	.py	.vbs	.sh	.ps1	N/A	D
-Website	266	"Which of the following answers refers to a filename extension used in a cross-platform, general-purpose programming language?"	.bat	.py	.ps1	.vbs	N/A	B
-Website	267	Which of the following answers refers to a script file type designed to be run in Unix command line?	bat	ps1	vbs	sh	N/A	D
-Website	268	Which of the following enables running macros in Microsoft Office applications?	DOM	VBA	SDK	RAD	N/A	B
-Website	269	Files with this filename extension are used in a scripting language based on the Microsoft's Visual Basic programming language.	.vb	.sh	.vbs	.js	N/A	C
-Website	270	Which term best describes a disgruntled employee abusing legitimate access to company's internal resources?	Script kiddie	Insider threat	Hacktivist	Blue hat hacker	N/A	B
-Website	271	A person who breaks into a computer network or system for a politically or socially motivated purpose is usually described as a(n):	Insider	Gray hat hacker	Hacktivist	State actor	N/A	C
-Website	272	Which of the following terms best describes threat actors whose sole intent behind breaking into a computer system or network is monetary gain?	State actors	Black hat hackers	Criminal syndicates	Advanced Persistent Threat (APT)	N/A	C
-Website	273	Which of the following terms falls into the category of unauthorized hacking activities?	Gray hat	White hat	Black hat	Blue hat	N/A	C
-Website	274	Which of the following terms falls into the category of semi-authorized hacking activities?	Blue hat	Black hat	Gray hat	White hat	N/A	C
-Website	275	"In IT security, the term ""Shadow IT"" is used to describe software and hardware used within an organization, but outside of the organization's official IT infrastructure."	TRUE	FALSE	N/A	N/A	N/A	A
-Website	276	Which of the following terms best describes threat actors that engage in illegal activities to get the know-how and gain market advantage?	Insiders	Nation states / APTs	Criminal syndicates	Competitors	N/A	D
-Website	277	Which of the following answers does not relate to a direct access threat vector?	Malicious USB cable	Backdoor	Malicious URL	Lack of physical security controls	N/A	C
-Website	278	Which of the following answers does not refer to an email communication threat vector?	Skimming	Malicious attachment	Social engineering	Malicious URL	N/A	A
-Website	279	Which of the following mitigates the risk of supply chain attacks?	Disaster Recovery Plan (DRP)	Vendor/intermediary checks	Business Continuity Plan (BCP)	Incident Response Plan (IRP)	N/A	B
-Website	280	Which of the following terms refers to threat intelligence gathered from publicly available sources?	IoC	OSINT	RFC	CVE/NVD	N/A	B
-Website	281	Which of the following statements does not apply to dark web?	Requires specific software to access its contents	Forms a large part of the deep web	Not indexed by traditional search engines	Frequently associated with illegal activities	N/A	B
-Website	282	A type of forensic evidence that can be used to detect unauthorized access attempts or other malicious activities is called:	CVE	IoC	AIS	OSINT	N/A	B
-Website	283	Which of the following terms refers to a US government initiative for real-time sharing of cyber threat indicators?	NVD	AIS	TTP	CVSS	N/A	B
-Website	284	What is STIX?	Vulnerability database	Common language for describing cyber threat information	US government initiative for real-time sharing of cyber threat indicators	Transport mechanism for cyber threat information	N/A	B
-Website	285	Which of the following terms refers to a dedicated transport mechanism for cyber threat information?	TCP/IP	STIX	TAXII	S/MIME	N/A	C
-Website	286	GitHub is an example of:	Digital media store	Virtualization software	File/code repository	Social media site	N/A	C
-Website	287	A type of formal document that describes the specifications for a particular technology is known as:	RFQ	RFC	RFI	RFP	N/A	B
-Website	288	Which of the following describes the behavior of a threat actor?	PII	TTPs	IPS	MaaS	N/A	B
-Website	289	A type of attack aimed at exploiting vulnerability that is present in already released software but unknown to the software developer is called:	Xmas attack	Zero-day attack	IV attack	Replay attack	N/A	B
-Website	290	Which of the following answers refers to a deprecated encryption protocol?	SSH	TLS	S/MIME	SSL	N/A	D
-Website	291	"FTP, HTTP, IMAP, POP, SMTP, and Telnet are all examples of cleartext (i.e. unencrypted) network protocols."	TRUE	FALSE	N/A	N/A	N/A	A
-Website	292	The importance of changing default usernames and passwords can be illustrated on the example of certain network devices (such as routers) which are often shipped with default and well-known admin credentials that can be looked up on the web.	TRUE	FALSE	N/A	N/A	N/A	A
-Website	293	An antivirus software identifying non-malicious file as a virus due to faulty virus signature file is an example of:	Fault tolerance	False positive error	Quarantine function	False negative error	N/A	B
-Website	294	Which of the following terms refers to a situation where no alarm is raised when an attack has taken place?	False negative	True positive	False positive	True negative	N/A	A
-Website	295	An industry standard for assessing the severity of computer system security vulnerabilities is known as:	SIEM	CVSS	OSINT	SOAR	N/A	B
-Website	296	Which type of server is used for collecting diagnostic and monitoring data from networked devices?	Proxy server	UC server	Syslog server	ICS server	N/A	C
+Website	256	"The term ""Domain hijacking"" refers to a situation in which domain registrants due to unlawful actions of third parties lose control over their domain names."	TRUE	FALSE	N/A	N/A	N/A	A
+Website	257	Remapping a domain name to a rogue IP address is an example of what kind of exploit?	DNS poisoning	Domain hijacking	ARP poisoning	URL hijacking	N/A	A
+Website	258	URL redirection is a characteristic feature of:	Pharming	Directory traversal attacks	On-path attacks	Typosquatting	N/A	A
+Website	259	Which of the following enables client-side URL redirection?	host	hosts	hostname	localhost	N/A	B
+Website	260	Which of the following factors has the biggest impact on domain reputation?	Domain age	Missing SSL certificate	Derivative content	Bounce rate	N/A	B
+Website	261	"As opposed to the simple Denial of Service (DoS) attacks that usually are performed from a single system, a Distributed Denial of Service (DDoS) attack uses multiple compromised computer systems to perform the attack against its target. The intermediary systems that are used as platform for the attack are the secondary victims of the DDoS attack; they are often referred to as zombies, and collectively as a botnet."	TRUE	FALSE	N/A	N/A	N/A	A
+Website	262	What is the most common form of a DDoS attack?	IoT-based	Network-based	OT-based	Application-based	N/A	B
+Website	263	Which type of DDoS attack targets industrial equipment and infrastructure?	IoT	ATT&CK	OT	IoC	N/A	C
+Website	264	Which of the following answers lists the filename extension of a Microsoft PowerShell script file?	.py	.vbs	.sh	.ps1	N/A	D
+Website	265	"Which of the following answers refers to a filename extension used in a cross-platform, general-purpose programming language?"	.bat	.py	.ps1	.vbs	N/A	B
+Website	266	Which of the following answers refers to a script file type designed to be run in Unix command line?	bat	ps1	vbs	sh	N/A	D
+Website	267	Which of the following enables running macros in Microsoft Office applications?	DOM	VBA	SDK	RAD	N/A	B
+Website	268	Files with this filename extension are used in a scripting language based on the Microsoft's Visual Basic programming language.	.vb	.sh	.vbs	.js	N/A	C
+Website	269	Which term best describes a disgruntled employee abusing legitimate access to company's internal resources?	Script kiddie	Insider threat	Hacktivist	Blue hat hacker	N/A	B
+Website	270	A person who breaks into a computer network or system for a politically or socially motivated purpose is usually described as a(n):	Insider	Gray hat hacker	Hacktivist	State actor	N/A	C
+Website	271	Which of the following terms best describes threat actors whose sole intent behind breaking into a computer system or network is monetary gain?	State actors	Black hat hackers	Criminal syndicates	Advanced Persistent Threat (APT)	N/A	C
+Website	272	Which of the following terms falls into the category of unauthorized hacking activities?	Gray hat	White hat	Black hat	Blue hat	N/A	C
+Website	273	Which of the following terms falls into the category of semi-authorized hacking activities?	Blue hat	Black hat	Gray hat	White hat	N/A	C
+Website	274	"In IT security, the term ""Shadow IT"" is used to describe software and hardware used within an organization, but outside of the organization's official IT infrastructure."	TRUE	FALSE	N/A	N/A	N/A	A
+Website	275	Which of the following terms best describes threat actors that engage in illegal activities to get the know-how and gain market advantage?	Insiders	Nation states / APTs	Criminal syndicates	Competitors	N/A	D
+Website	276	Which of the following answers does not relate to a direct access threat vector?	Malicious USB cable	Backdoor	Malicious URL	Lack of physical security controls	N/A	C
+Website	277	Which of the following answers does not refer to an email communication threat vector?	Skimming	Malicious attachment	Social engineering	Malicious URL	N/A	A
+Website	278	Which of the following mitigates the risk of supply chain attacks?	Disaster Recovery Plan (DRP)	Vendor/intermediary checks	Business Continuity Plan (BCP)	Incident Response Plan (IRP)	N/A	B
+Website	279	Which of the following terms refers to threat intelligence gathered from publicly available sources?	IoC	OSINT	RFC	CVE/NVD	N/A	B
+Website	280	Which of the following statements does not apply to dark web?	Requires specific software to access its contents	Forms a large part of the deep web	Not indexed by traditional search engines	Frequently associated with illegal activities	N/A	B
+Website	281	A type of forensic evidence that can be used to detect unauthorized access attempts or other malicious activities is called:	CVE	IoC	AIS	OSINT	N/A	B
+Website	282	Which of the following terms refers to a US government initiative for real-time sharing of cyber threat indicators?	NVD	AIS	TTP	CVSS	N/A	B
+Website	283	What is STIX?	Vulnerability database	Common language for describing cyber threat information	US government initiative for real-time sharing of cyber threat indicators	Transport mechanism for cyber threat information	N/A	B
+Website	284	Which of the following terms refers to a dedicated transport mechanism for cyber threat information?	TCP/IP	STIX	TAXII	S/MIME	N/A	C
+Website	285	GitHub is an example of:	Digital media store	Virtualization software	File/code repository	Social media site	N/A	C
+Website	286	A type of formal document that describes the specifications for a particular technology is known as:	RFQ	RFC	RFI	RFP	N/A	B
+Website	287	Which of the following describes the behavior of a threat actor?	PII	TTPs	IPS	MaaS	N/A	B
+Website	288	A type of attack aimed at exploiting vulnerability that is present in already released software but unknown to the software developer is called:	Xmas attack	Zero-day attack	IV attack	Replay attack	N/A	B
+Website	289	Which of the following answers refers to a deprecated encryption protocol?	SSH	TLS	S/MIME	SSL	N/A	D
+Website	290	"FTP, HTTP, IMAP, POP, SMTP, and Telnet are all examples of cleartext (i.e. unencrypted) network protocols."	TRUE	FALSE	N/A	N/A	N/A	A
+Website	291	The importance of changing default usernames and passwords can be illustrated on the example of certain network devices (such as routers) which are often shipped with default and well-known admin credentials that can be looked up on the web.	TRUE	FALSE	N/A	N/A	N/A	A
+Website	292	An antivirus software identifying non-malicious file as a virus due to faulty virus signature file is an example of:	Fault tolerance	False positive error	Quarantine function	False negative error	N/A	B
+Website	293	Which of the following terms refers to a situation where no alarm is raised when an attack has taken place?	False negative	True positive	False positive	True negative	N/A	A
+Website	294	An industry standard for assessing the severity of computer system security vulnerabilities is known as:	SIEM	CVSS	OSINT	SOAR	N/A	B
+Website	295	Which type of server is used for collecting diagnostic and monitoring data from networked devices?	Proxy server	UC server	Syslog server	ICS server	N/A	C
