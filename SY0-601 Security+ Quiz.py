@@ -12,6 +12,7 @@ import google.generativeai as genai
 import os
 from dotenv import load_dotenv
 
+print("Version 2.0.0")
 print("Loading Gemini...")
 
 load_dotenv()
