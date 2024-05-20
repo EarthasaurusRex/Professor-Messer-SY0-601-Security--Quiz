@@ -9,11 +9,14 @@ import random
 import textwrap
 import csv
 import google.generativeai as genai
+import os
+from dotenv import load_dotenv
 
 print("Loading Gemini...")
 
-# CHANGE THIS TO YOUR OWN API KEY FOR YOUR OWN USE
-GOOGLE_API_KEY = "AIzaSyBmFVUgOgUwChhgrTrJmS0OzYkKPsaj5GA"
+load_dotenv()
+
+GOOGLE_API_KEY = os.getenv("API_KEY")
 
 genai.configure(api_key=GOOGLE_API_KEY)
 model = genai.GenerativeModel("gemini-1.0-pro-latest")
