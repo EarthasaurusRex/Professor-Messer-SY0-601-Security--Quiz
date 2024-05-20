@@ -22,6 +22,14 @@ GOOGLE_API_KEY = os.getenv("API_KEY")
 genai.configure(api_key=GOOGLE_API_KEY)
 model = genai.GenerativeModel("gemini-1.0-pro-latest")
 
+# Test if key is valid
+response = model.generate_content("beans")
+try:
+    response.text
+except ValueError:
+    print("Failed to generate response. Either the API key is invalid for the API is not responding.")
+    quit()
+
 w = textwrap.TextWrapper(width=100,break_long_words=False,replace_whitespace=False)
 
 CORRECT_COUNT = 0
