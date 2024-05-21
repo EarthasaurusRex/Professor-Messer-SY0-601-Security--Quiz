@@ -12,7 +12,7 @@ import google.generativeai as genai
 import os
 from dotenv import load_dotenv
 
-print("Version 1.3.0")
+print("Version 1.2.0")
 print("Loading Gemini...")
 
 load_dotenv()
@@ -26,8 +26,9 @@ model = genai.GenerativeModel("gemini-1.0-pro-latest")
 response = model.generate_content("beans")
 try:
     response.text
-except ValueError:
-    print("Failed to generate response. Either the API key is invalid for the API is not responding.")
+except:
+    print("Failed to generate response. Either the API key is invalid or the API is not responding.")
+    input('Press ENTER to exit')
     quit()
 
 w = textwrap.TextWrapper(width=100,break_long_words=False,replace_whitespace=False)
@@ -122,7 +123,7 @@ Do not use any markdown formatting. Define any abbreviations.
             response.text
             break
         except ValueError:
-            print("Failed to generate response. Retrying (This may take a while)...")
+            print("Failed to generate response. Retrying (This may take a while. If this continues, try getting your own API key or stop getting questions wrong.)...")
             continue
 
     try:
