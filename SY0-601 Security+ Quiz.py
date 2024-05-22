@@ -10,6 +10,7 @@ import textwrap
 import csv
 import google.generativeai as genai
 import os
+import re
 from dotenv import load_dotenv
 
 print("Version 1.2.1")
@@ -56,13 +57,26 @@ def ask_question(qa):
     global STREAK
     QUESTIONS_ANSWERED += 1
     
-    q = get_random_question(qa)
+    question = get_random_question(qa)
     # Print question information
-    prompt = q[0]+'\n'+q[1]+'\n\n'+q[2]+'\n'
+    prompt = question[0]+'\n'+question[1]+'\n\n'+question[2]+'\n'
     ltr = 65
-    questions = q[3:-1]
+    answers = question[3:-1]
+
+    # Shuffle answers
+    answer_key = []
+    for key, answer in zip(list("abcde"), answers):
+        if "n/a" in answer.lower():
+            continue
+        answer_key.append((answer, key==question[-1].lower()))
+    random.shuffle(answer_key)
+    answers, key = zip(*answer_key)
+    for boolean, letter in zip(key, list("abcde")):
+        if boolean:
+            correct_answer = letter
+
     # random.shuffle(questions)
-    for answer in questions:
+    for answer in answers:
         if "n/a" in answer.lower():
             continue
         prompt += f"\n{chr(ltr)}. {answer}"
@@ -72,9 +86,10 @@ def ask_question(qa):
     # Get answer and check it
     while True:
         a = input()
-        if a not in "abcde" or len(a) != 1:
+        a = re.sub(r"[^a-zA-Z]", '', a.lower())
+        if a.lower() not in "abcde" or len(a) != 1:
             continue
-        if a.lower() == q[-1].lower():
+        if a.lower() == correct_answer.lower():
             print()
             STREAK += 1
             print("Correct")
@@ -82,7 +97,7 @@ def ask_question(qa):
                 f" ({CORRECT_COUNT + 1} / {QUESTIONS_ANSWERED})")
             print(f"Streak: {STREAK}")
             print("==========")
-            qa.remove(q)
+            qa.remove(question)
             return True
         else:
             break
@@ -90,7 +105,7 @@ def ask_question(qa):
     print("Incorrect")
 
     # Gemini Explanation
-    print(f"The correct answer is {q[-1]}.\n")
+    print(f"The correct answer is {correct_answer}.\n")
     print("Explanation by Gemini (may be incorrect):")
     while True:
         response = model.generate_content(
@@ -117,7 +132,7 @@ CA (E) is the Certificate Authority that issues certificates, but it is not resp
 
 Do not use any markdown formatting. Define any abbreviations.
 
-"""+"Question:\n"+prompt+f"\n\nThe correct answer is {q[-1]}."
+"""+"Question:\n"+prompt+f"\n\nThe correct answer is {correct_answer}."
     )
         try:
             response.text
