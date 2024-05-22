@@ -246,7 +246,6 @@ Website	244	A technique that allows an attacker to authenticate to a remote serv
 Website	245	"The term ""Evil twin"" refers to a rogue Wireless Access Point (WAP) set up for eavesdropping or stealing sensitive user data. Evil twin replaces the legitimate access point and by advertising its own presence with the same Service Set Identifier (SSID, a.k.a. network name) appears as a legitimate access point to connecting hosts."	TRUE	FALSE	N/A	N/A	N/A	A
 Website	246	Gaining unauthorized access to a Bluetooth device is referred to as:	Phishing	Bluejacking	Smishing	Bluesnarfing	N/A	D
 Website	247	The practice of sending unsolicited messages over Bluetooth is known as:	SPIM	Bluejacking	Vishing	Bluesnarfing	N/A	B
-Website	248	A wireless disassociation attack is a type of: (Select 2 answers)	Cryptographic attack	Downgrade attack	Deauthentication attack	Brute-force attack	N/A	C
 Website	249	A wireless jamming attack is a type of:	Cryptographic attack	Denial-of-Service (DoS) attack	Brute-force attack	Downgrade attack	N/A	B
 Website	250	Which of the following wireless technologies enables identification and tracking of tags attached to objects?	WTLS	GPS	RFID	WAF	N/A	C
 Website	251	A type of identification badge that can be held within a certain distance of a reader device to authenticate its holder is called:	Smart card	ID badge	Soft token	RFID badge	N/A	D
