@@ -13,7 +13,7 @@ import os
 import re
 from dotenv import load_dotenv
 
-print("Version 1.2.1")
+print("Version 1.3.0")
 print("Loading Gemini...")
 
 load_dotenv()
